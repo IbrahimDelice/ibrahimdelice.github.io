@@ -16,10 +16,10 @@ const config = {
   projectName, // Usually your repo name.
   
   // Set the production url of your site here
-  url: 'ibrahimdelice.github.io',
+  url: 'https://github.com',
   // Set the /<baseUrl>/ pathname under which your site is served
   // For GitHub pages deployment, it is often '/<projectName>/'
-  baseUrl: '/',
+  baseUrl: '/ibrahimdelice.github.io',
 
   // GitHub pages deployment config.
   // If you aren't using GitHub pages, you don't need these.
