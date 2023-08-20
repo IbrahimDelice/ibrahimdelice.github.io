@@ -10,6 +10,11 @@ const config = {
   tagline: 'Prof. Dr.',
   favicon: 'img/favicon.ico',
 
+  // GitHub pages deployment config.
+  // If you aren't using GitHub pages, you don't need these.
+  organizationName, // Usually your GitHub org/user name.
+  projectName, // Usually your repo name.
+  
   // Set the production url of your site here
   url: 'ibrahimdelice.github.io',
   // Set the /<baseUrl>/ pathname under which your site is served
