@@ -26,6 +26,7 @@ const config = {
   organizationName: 'ibrahimdelice', // Usually your GitHub org/user name.
   projectName: 'ibrahimdelice.github.io', // Usually your repo name.
   trailingSlash: false,
+  deploymentBranch: "main",
 
   onBrokenLinks: 'throw',
   onBrokenMarkdownLinks: 'warn',
