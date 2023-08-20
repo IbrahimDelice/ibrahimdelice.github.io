@@ -18,8 +18,9 @@ const config = {
 
   // GitHub pages deployment config.
   // If you aren't using GitHub pages, you don't need these.
-  organizationName: 'ibrahimdelice', // Usually your GitHub org/user name.
+  organizationName: 'ibrahimdelice.github.io', // Usually your GitHub org/user name.
   projectName: 'ibrahimdelice', // Usually your repo name.
+  trailingSlash: false,
 
   onBrokenLinks: 'throw',
   onBrokenMarkdownLinks: 'warn',
