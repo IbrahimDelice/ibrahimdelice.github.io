@@ -1,1 +1,0 @@
-# ibrahimdelice.github.io
