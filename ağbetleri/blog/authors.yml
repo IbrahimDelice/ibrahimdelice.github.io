@@ -1,8 +1,8 @@
-endi:
-  name: Endilie Yacop Sucipto
-  title: Maintainer of Docusaurus
-  url: https://github.com/endiliey
-  image_url: https://github.com/endiliey.png
+hid:
+  name: Hacı İbrahim DELİCE
+  title: Prof. Dr.
+  url: https://ibrahimdelice.com
+  image_url: https://github.com/ibrahimdelice.png
 
 yangshun:
   name: Yangshun Tay
@@ -11,7 +11,7 @@ yangshun:
   image_url: https://github.com/yangshun.png
 
 slorber:
-  name: Sébastien Lorber
+  name: Hacı İbrahim DELİCE
   title: Docusaurus maintainer
   url: https://sebastienlorber.com
   image_url: https://github.com/slorber.png
