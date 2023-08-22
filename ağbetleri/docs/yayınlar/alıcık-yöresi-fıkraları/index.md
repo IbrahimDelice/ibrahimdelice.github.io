@@ -1,6 +1,10 @@
 ---
-sidebar_position: 3
+sidebar_position: 1
 ---
+
+# Alıcık Yöresi Fıkraları
+
+Alıcık, Yozgat-Akdağmadeni kazasına bağlı, Yozgat-Sivas il sınırında, 150 hâneli, yaklaşık 1200 nüfuslu, Yozgat'ın bir serhat köyüdür. Etrafında Kızıllı, Şeyhhalil, Akçakoca, Beyazıt, Taşpınar ve Kayakışla köyleri yer almaktadır.
 
 # Create a Blog Post
 

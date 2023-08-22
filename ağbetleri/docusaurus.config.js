@@ -68,7 +68,7 @@ const config = {
       navbar: {
         title: 'İbrahim DELİCE',
         logo: {
-          alt: 'My Site Logo',
+          alt: 'İbrahim DELİCE',
           src: 'img/logo.png',
         },
         items: [
@@ -76,7 +76,7 @@ const config = {
             type: 'docSidebar',
             sidebarId: 'tutorialSidebar',
             position: 'left',
-            label: 'Tutorial',
+            label: 'Yayınlar',
           },
           {to: '/blog', label: 'Blog', position: 'left'},
           {
