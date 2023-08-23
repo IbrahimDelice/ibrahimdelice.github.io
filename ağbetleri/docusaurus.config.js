@@ -116,15 +116,15 @@ const config = {
             ],
           },
           {
-            title: 'More',
+            title: 'Daha',
             items: [
               {
-                label: 'Blog',
+                label: 'Günce',
                 to: '/blog',
               },
               {
                 label: 'GitHub',
-                href: 'https://github.com/facebook/docusaurus',
+                href: 'https://github.com/ibrahimdelice',
               },
             ],
           },
