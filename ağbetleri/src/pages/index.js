@@ -28,22 +28,30 @@ function HomepageHeader() {
 
 function Hakkımda() {
   return (
-    <section style={{marginBottom: 4 + 'em'}}>
+    <section style={{ marginBottom: 4 + 'em' }}>
       <div className="container">
-        <div className="row">
+        <div className="row block">
           <h1>Hacı İbrahim DELİCE Kimdir?</h1>
-          1964 Yılında, Sivas-Yıldızeli'ne bağlı Cumhuriyet (Kızıllı) köyünde dünyaya geldim.
 
-          İlk öğrenimi, Kızıllı köyünde; orta öğrenimini, Sivas'ta tamamladım. 1979 yılında başladığım Selçuk Üniversitesi, Fen-Edebiyat Fakültesi, Türk Dili ve Edebiyatı Bölümünden 1984 yılında mezun oldum.
+          <img src='img/Hacı_İbrahim_DELİCE.jpg' alt="Hacı İbrahim DELİCE" className='fr y30 boşluk' />
+          <p>
+            1964 Yılında, Sivas-Yıldızeli'ne bağlı Cumhuriyet (Kızıllı) köyünde dünyaya geldim.
+          </p>
+          <p>
+            İlk öğrenimi, Kızıllı köyünde; orta öğrenimini, Sivas'ta tamamladım. 1979 yılında başladığım Selçuk Üniversitesi, Fen-Edebiyat Fakültesi, Türk Dili ve Edebiyatı Bölümünden 1984 yılında mezun oldum.
+          </p>
 
-          Yüksek lisansı, 1992 yılında, Cumhuriyet Üniversitesi, Sosyal Bilimler Enstitüsünde; doktorasını, 1996 yılında, Fırat Üniversitesi, Sosyal Bilimler Enstitüsünde tamamladım.
-
-          1985 ~ 1989 yılları arasında, Akşehir Reis Lisesinde; 1990 yılında, Sivas İmam-Hatip Lisesinde Türk Dili ve Edebiyatı öğretmenliği yaptım. 1990 yılında Cumhuriyet Üniversitesi, Fen-Edebiyat Fakültesi, Türk Dili ve Edebiyatı Bölümünde araştırma görevliliğine başladım.
-
-          Hâlen Cumhuriyet Üniversitesi, Fen-Edebiyat Fakültesi, Çağdaş Türk Lehçeleri  ve Edebiyatları Bölümü, Oğuz Gurubu Anabilim Dalında profesör kadrosunda çalışmaktayım.
-        </div>
+          <p>  
+            Yüksek lisansı, 1992 yılında, Cumhuriyet Üniversitesi, Sosyal Bilimler Enstitüsünde; doktorasını, 1996 yılında, Fırat Üniversitesi, Sosyal Bilimler Enstitüsünde tamamladım.
+          </p>
+          <p>
+            1985 ~ 1989 yılları arasında, Akşehir Reis Lisesinde; 1990 yılında, Sivas İmam-Hatip Lisesinde Türk Dili ve Edebiyatı öğretmenliği yaptım. 1990 yılında Cumhuriyet Üniversitesi, Fen-Edebiyat Fakültesi, Türk Dili ve Edebiyatı Bölümünde araştırma görevliliğine başladım.
+          </p>
+          <p>
+            Hâlen Cumhuriyet Üniversitesi, Fen-Edebiyat Fakültesi, Çağdaş Türk Lehçeleri  ve Edebiyatları Bölümü, Oğuz Gurubu Anabilim Dalında profesör kadrosunda çalışmaktayım.
+          </p></div>
       </div>
-    </section>)
+    </section >)
 }
 
 export default function Home() {
