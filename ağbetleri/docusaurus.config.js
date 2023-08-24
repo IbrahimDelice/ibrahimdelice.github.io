@@ -90,46 +90,47 @@ const config = {
         style: 'dark',
         links: [
           {
-            title: 'Docs',
+            title: 'İçerikler',
             items: [
               {
-                label: 'Tutorial',
-                to: '/docs/giriş',
+                label: 'Yayınlar & Makaleler',
+                to: '/docs/giriş/',
+              },
+              {
+                label: 'Günce',
+                to: '/blog',
               },
             ],
           },
           {
-            title: 'Community',
+            title: 'Nerelerdeyim?',
             items: [
               {
-                label: 'Stack Overflow',
-                href: 'https://stackoverflow.com/questions/tagged/docusaurus',
+                label: 'Facebook/hidelice',
+                href: 'https://www.facebook.com/hidelice',
               },
               {
-                label: 'Discord',
-                href: 'https://discordapp.com/invite/docusaurus',
+                label: 'Linkedin/hacı-ibrahim-delice-60438147',
+                href: 'https://www.linkedin.com/in/hac%C4%B1-ibrahim-delice-60438147/',
               },
               {
-                label: 'Twitter',
-                href: 'https://twitter.com/docusaurus',
+                label: 'Twitter/ibrahimdelice',
+                href: 'https://twitter.com/ibrahimdelice',
               },
             ],
           },
           {
             title: 'Daha',
             items: [
+              
               {
-                label: 'Günce',
-                to: '/blog',
-              },
-              {
-                label: 'GitHub',
+                label: 'GitHub/ibrahimdelice',
                 href: 'https://github.com/ibrahimdelice',
               },
             ],
           },
         ],
-        copyright: `Copyright © ${new Date().getFullYear()} My Project, Inc. Built with Docusaurus.`,
+        copyright: `Copyright © ${new Date().getFullYear()} Hacı İbrahim DELİCE'nin resmî betleri. Volkan TAŞ Docusaurus kullanılarak kurdu.`,
       },
       prism: {
         theme: lightCodeTheme,
