@@ -44,14 +44,14 @@ const config = {
           // Please change this to your repo.
           // Remove this to remove the "edit this page" links.
           editUrl:
-            'https://github.com/ibrahimdelice/ibrahimdelice.github.io/tree/main/packages/create-docusaurus/templates/shared/',
+            'https://github.com/ibrahimdelice/ibrahimdelice.github.io/edit/main/ağbetleri/',
         },
         blog: {
           showReadingTime: true,
           // Please change this to your repo.
           // Remove this to remove the "edit this page" links.
           editUrl:
-            'https://github.com/ibrahimdelice/ibrahimdelice.github.io/tree/main/packages/create-docusaurus/templates/shared/',
+            'https://github.com/ibrahimdelice/ibrahimdelice.github.io/edit/main/ağbetleri/',
         },
         theme: {
           customCss: require.resolve('./src/css/custom.css'),
@@ -135,9 +135,44 @@ const config = {
         theme: lightCodeTheme,
         darkTheme: darkCodeTheme,
       },
+      themes: ['docusaurus-theme-search-typesense'],
+      typesense: {
+        // Replace this with the name of your index/collection.
+        // It should match the "index_name" entry in the scraper's "config.json" file.
+        typesenseCollectionName: 'docusaurus-2',
+  
+        typesenseServerConfig: {
+          nodes: [
+            {
+              host: 'xxx-1.a1.typesense.net',
+              port: 443,
+              protocol: 'https',
+            },
+            {
+              host: 'xxx-2.a1.typesense.net',
+              port: 443,
+              protocol: 'https',
+            },
+            {
+              host: 'xxx-3.a1.typesense.net',
+              port: 443,
+              protocol: 'https',
+            },
+          ],
+          apiKey: 'xyz',
+        },
+  
+        // Optional: Typesense search parameters: https://typesense.org/docs/0.24.0/api/search.html#search-parameters
+        typesenseSearchParameters: {},
+  
+        // Optional
+        contextualSearch: true,
+      },
     }),
 };
 
 module.exports = config;
+
+
 
 

@@ -1,10 +1,19 @@
 ---
 sidebar_position: 1
-tags: [Türk dili, dilbilim]
+tags: [
+    Türkçe, Türkiye Türkçesi, Turkey Turkish,
+    fiil, eylem, edim, verb,
+    kip, modality,
+    fiil çekimleri, eylem çekimleri, edim çekimleri, conjugation,
+    zaman, times şekil,
+    şekil, form
+    ]
 ---
 
 # Türkçede Fiil Çekimlerine Yeni Bir Bakış
-H. İbrahim DELİCE
+H. İbrahim DELİCE[^1]
+
+[^1]: Cumhuriyet Üniversitesi Edebiyat Fakültesi, Çağdaş Türk Lehçeleri ve Edebiyatları Bölümü öğretim üyesi.
 
 ### Özet
 Türkçede fiil çekimleri üzerine dil araştırmacıları arasında bir uzlaşı sağlanmış gibi
@@ -33,103 +42,192 @@ Türkçe üzerine çalışma yapan Türkologların hemen her konuda farklı gör
 den ayrıldıkları gözlemlenirken fiil çekimleri ile ilgili çalışmalarda genellikle bir uzlaşı sağladıkları görülmektedir. Bu uzlaşı doğrultusunda ortaya genel kabul görmüş şöyle bir ‘Fiil Çekimi Tablosu’ çıkmaktadır (Banguoğlu, 1974: 449):
 
 ## I. Asıl Zaman Kipleri
-<table>
+<style type="text/css">
+
+</style>
+<table class="tg">
 <thead>
   <tr>
-    <th></th>
-    <th>Geçmiş</th>
-    <th>Dolaylı Geçmiş</th>
-    <th>Geniş Zaman</th>
-    <th>Şimdiki Zaman</th>
-    <th>Gelecek Zaman</th>
+    <th class="tg-pidv"></th>
+    <th class="tg-mjdq">Geçmiş</th>
+    <th class="tg-mjdq">Dolaylı Geçmiş</th>
+    <th class="tg-mjdq">Geniş Zaman</th>
+    <th class="tg-mjdq">Şimdiki Zaman</th>
+    <th class="tg-mjdq">Gelecek Zaman</th>
   </tr>
 </thead>
 <tbody>
   <tr>
-    <td rowspan="6">Bildirme Kipi</td>
-    <td>sev-di-m</td>
-    <td>sev-miş-i-m</td>
-    <td>sev-er-i-m</td>
-    <td>sev-i-yor-u-m</td>
-    <td>sev-eceğ-i-m</td>
+    <td class="tg-vjpu" rowspan="6">Bildirme Kipi</td>
+    <td class="tg-cjtp">sev-di-m</td>
+    <td class="tg-cjtp">sev-miş-i-m</td>
+    <td class="tg-cjtp">sev-er-i-m</td>
+    <td class="tg-cjtp">sev-i-yor-u-m</td>
+    <td class="tg-cjtp">sev-eceğ-i-m</td>
   </tr>
   <tr>
-    <td>sev-di-n</td>
-    <td>sev-miş-sin</td>
-    <td>sev-er-sin</td>
-    <td>sev-i-yor-sun</td>
-    <td>sev-ecek-sin</td>
+    <td class="tg-cjtp">sev-di-n</td>
+    <td class="tg-cjtp">sev-miş-sin</td>
+    <td class="tg-cjtp">sev-er-sin</td>
+    <td class="tg-cjtp">sev-i-yor-sun</td>
+    <td class="tg-cjtp">sev-ecek-sin</td>
   </tr>
   <tr>
-    <td>sev-di</td>
-    <td>sev-miş</td>
-    <td>sev-er</td>
-    <td>sev-i-yor</td>
-    <td>sev-ecek</td>
+    <td class="tg-cjtp">sev-di</td>
+    <td class="tg-cjtp">sev-miş</td>
+    <td class="tg-cjtp">sev-er</td>
+    <td class="tg-cjtp">sev-i-yor</td>
+    <td class="tg-cjtp">sev-ecek</td>
   </tr>
   <tr>
-    <td>sev-di-k</td>
-    <td>sev-miş-i-z</td>
-    <td>sev-er-i-z</td>
-    <td>sev-i-yor-uz</td>
-    <td>sev-eceğ-i-z</td>
+    <td class="tg-cjtp">sev-di-k</td>
+    <td class="tg-cjtp">sev-miş-i-z</td>
+    <td class="tg-cjtp">sev-er-i-z</td>
+    <td class="tg-cjtp">sev-i-yor-uz</td>
+    <td class="tg-cjtp">sev-eceğ-i-z</td>
   </tr>
   <tr>
-    <td>sev-di-niz</td>
-    <td>sev-miş-siniz</td>
-    <td>sev-er-siniz</td>
-    <td>sev-i-yor-sunuz</td>
-    <td>sev-ecek-siniz</td>
+    <td class="tg-cjtp">sev-di-niz</td>
+    <td class="tg-cjtp">sev-miş-siniz</td>
+    <td class="tg-cjtp">sev-er-siniz</td>
+    <td class="tg-cjtp">sev-i-yor-sunuz</td>
+    <td class="tg-cjtp">sev-ecek-siniz</td>
   </tr>
   <tr>
-    <td>sev-di-ler</td>
-    <td>sev-miş-ler</td>
-    <td>sev-er-ler</td>
-    <td>sev-i-yor-lar</td>
-    <td>sev-ecek-ler</td>
+    <td class="tg-cjtp">sev-di-ler</td>
+    <td class="tg-cjtp">sev-miş-ler</td>
+    <td class="tg-cjtp">sev-er-ler</td>
+    <td class="tg-cjtp">sev-i-yor-lar</td>
+    <td class="tg-cjtp">sev-ecek-ler</td>
   </tr>
   <tr>
-    <td rowspan="6">Anlatma Kipi</td>
-    <td>sev-di-y-di-m</td>
-    <td>sev-miş-ti-m</td>
-    <td>sev-er-di-m</td>
-    <td>sev-i-yor-du-m</td>
-    <td>sev-ecek-ti-m</td>
+    <td class="tg-g7sd" rowspan="6">Anlatma Kipi</td>
+    <td class="tg-0pky">sev-di-y-di-m</td>
+    <td class="tg-0pky">sev-miş-ti-m</td>
+    <td class="tg-0pky">sev-er-di-m</td>
+    <td class="tg-0pky">sev-i-yor-du-m</td>
+    <td class="tg-0pky">sev-ecek-ti-m</td>
   </tr>
   <tr>
-    <td>sev-di-y-di-n</td>
-    <td>sev-miş-ti-n</td>
-    <td>sev-er-di-n</td>
-    <td>sev-i-yor-du-n</td>
-    <td>sev-ecek-ti-n</td>
+    <td class="tg-0pky">sev-di-y-di-n</td>
+    <td class="tg-0pky">sev-miş-ti-n</td>
+    <td class="tg-0pky">sev-er-di-n</td>
+    <td class="tg-0pky">sev-i-yor-du-n</td>
+    <td class="tg-0pky">sev-ecek-ti-n</td>
   </tr>
   <tr>
-    <td>sev-di-y-di</td>
-    <td>sev-miş-ti</td>
-    <td>sev-er-di</td>
-    <td>sev-i-yor-du</td>
-    <td>sev-ecek-ti</td>
+    <td class="tg-0pky">sev-di-y-di</td>
+    <td class="tg-0pky">sev-miş-ti</td>
+    <td class="tg-0pky">sev-er-di</td>
+    <td class="tg-0pky">sev-i-yor-du</td>
+    <td class="tg-0pky">sev-ecek-ti</td>
   </tr>
   <tr>
-    <td>sev-di-y-di-k</td>
-    <td>sev-miş-ti-k</td>
-    <td>sev-er-di-k</td>
-    <td>sev-i-yor-du-k</td>
-    <td>sev-ecek-ti-k</td>
+    <td class="tg-0pky">sev-di-y-di-k</td>
+    <td class="tg-0pky">sev-miş-ti-k</td>
+    <td class="tg-0pky">sev-er-di-k</td>
+    <td class="tg-0pky">sev-i-yor-du-k</td>
+    <td class="tg-0pky">sev-ecek-ti-k</td>
   </tr>
   <tr>
-    <td>sev-di-y-di-niz</td>
-    <td>sev-miş-ti-niz</td>
-    <td>sev-er-di-niz</td>
-    <td>sev-i-yor-du-nuz</td>
-    <td>sev-ecek-ti-niz</td>
+    <td class="tg-0pky">sev-di-y-di-niz</td>
+    <td class="tg-0pky">sev-miş-ti-niz</td>
+    <td class="tg-0pky">sev-er-di-niz</td>
+    <td class="tg-0pky">sev-i-yor-du-nuz</td>
+    <td class="tg-0pky">sev-ecek-ti-niz</td>
   </tr>
   <tr>
-    <td>sev-di-y-di-ler</td>
-    <td>sev-miş-ti-ler</td>
-    <td>sev-er-di-ler</td>
-    <td>sev-i-yor-du-lar</td>
-    <td>sev-ecek-ti-ler</td>
+    <td class="tg-0pky">sev-di-y-di-ler</td>
+    <td class="tg-0pky">sev-miş-ti-ler</td>
+    <td class="tg-0pky">sev-er-di-ler</td>
+    <td class="tg-0pky">sev-i-yor-du-lar</td>
+    <td class="tg-0pky">sev-ecek-ti-ler</td>
+  </tr>
+  <tr>
+    <td class="tg-vjpu" rowspan="6">Söylenti Kipi</td>
+    <td class="tg-cjtp"></td>
+    <td class="tg-cjtp">sev-miş-miş-i-m</td>
+    <td class="tg-cjtp">sev-er-miş-i-m</td>
+    <td class="tg-cjtp">sev-i-yor-muş-u-m</td>
+    <td class="tg-cjtp">sev-ecek-miş-i-m</td>
+  </tr>
+  <tr>
+    <td class="tg-cjtp"></td>
+    <td class="tg-cjtp">sev-miş-miş-sin</td>
+    <td class="tg-cjtp">sev-er- miş-sin</td>
+    <td class="tg-cjtp">sev-i-yor-muş-su-n</td>
+    <td class="tg-cjtp">sev-ecek-miş-sin</td>
+  </tr>
+  <tr>
+    <td class="tg-cjtp"></td>
+    <td class="tg-cjtp">sev-miş-miş</td>
+    <td class="tg-cjtp">sev-er miş</td>
+    <td class="tg-cjtp">sev-i-yor-muş</td>
+    <td class="tg-cjtp">sev-ecek-miş</td>
+  </tr>
+  <tr>
+    <td class="tg-cjtp"></td>
+    <td class="tg-cjtp">sev-miş-miş-i-z</td>
+    <td class="tg-cjtp">sev-er- miş-i-z</td>
+    <td class="tg-cjtp">sev-i-yor-muş-uz</td>
+    <td class="tg-cjtp">sev-ecek-miş-i-z</td>
+  </tr>
+  <tr>
+    <td class="tg-cjtp"></td>
+    <td class="tg-cjtp">sev-miş-miş-siniz</td>
+    <td class="tg-cjtp">sev-er- miş-siniz</td>
+    <td class="tg-cjtp">sev-i-yor-muş-sunuz</td>
+    <td class="tg-cjtp">sev-ecek-miş-siniz</td>
+  </tr>
+  <tr>
+    <td class="tg-cjtp"></td>
+    <td class="tg-cjtp">sev-miş-miş-ler</td>
+    <td class="tg-cjtp">sev-er- miş-ler</td>
+    <td class="tg-cjtp">sev-i-yor-muş-lar</td>
+    <td class="tg-cjtp">sev-ecek-miş-ler</td>
+  </tr>
+  <tr>
+    <td class="tg-g7sd" rowspan="6">Şart Kipi</td>
+    <td class="tg-0pky">sev-di-y-se-m</td>
+    <td class="tg-0pky">sev-miş-se-m</td>
+    <td class="tg-0pky">sev-er-se-m</td>
+    <td class="tg-0pky">sev-i-yor-sa-m</td>
+    <td class="tg-0pky">sev-ecek-se-m</td>
+  </tr>
+  <tr>
+    <td class="tg-0pky">sev-di- y-se-n</td>
+    <td class="tg-0pky">sev-miş-se-n</td>
+    <td class="tg-0pky">sev-er- se-sen</td>
+    <td class="tg-0pky">sev-i-yor-sa-n</td>
+    <td class="tg-0pky">sev-ecek-se-sen</td>
+  </tr>
+  <tr>
+    <td class="tg-0pky">sev-di y-se</td>
+    <td class="tg-0pky">sev-miş-se</td>
+    <td class="tg-0pky">sev-er-se</td>
+    <td class="tg-0pky">sev-i-yor-sa</td>
+    <td class="tg-0pky">sev-ecek-se</td>
+  </tr>
+  <tr>
+    <td class="tg-0pky">sev-di- y-se-k</td>
+    <td class="tg-0pky">sev-miş-se-k</td>
+    <td class="tg-0pky">sev-er- se-k</td>
+    <td class="tg-0pky">sev-i-yor-sa-k</td>
+    <td class="tg-0pky">sev-ecek-se-k</td>
+  </tr>
+  <tr>
+    <td class="tg-0pky">sev-di- y-se-niz</td>
+    <td class="tg-0pky">sev-miş-se-niz</td>
+    <td class="tg-0pky">sev-er- se-siniz</td>
+    <td class="tg-0pky">sev-i-yor-sa-nız</td>
+    <td class="tg-0pky">sev-ecek-se-niz</td>
+  </tr>
+  <tr>
+    <td class="tg-0pky">sev-di- y-se-ler</td>
+    <td class="tg-0pky">sev-miş-se-ler</td>
+    <td class="tg-0pky">sev-er- se-ler</td>
+    <td class="tg-0pky">sev-i-yor-sa-lar</td>
+    <td class="tg-0pky">sev-ecek-se-ler</td>
   </tr>
 </tbody>
 </table>

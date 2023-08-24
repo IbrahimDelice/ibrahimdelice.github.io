@@ -38,3 +38,26 @@
   width:40%;
 }
 img.boşluk{margin:10px;}
+
+main *{
+  scroll-margin-top: 85px;
+}
+
+table{
+  position: relative;
+}
+th{
+  position: sticky;
+  top: 0; /* Don't forget this, required for the stickiness */
+}
+.tg  {border-collapse:collapse;border-color:black;border-spacing:0;border-style:solid;border-width:1px;}
+.tg td{border-style:solid;border-width:0px;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;
+  padding:10px 5px;word-break:normal;}
+.tg th{border-style:solid;border-width:0px;font-family:Arial, sans-serif;font-size:14px;font-weight:normal;
+  overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg .tg-vjpu{background-color:#ecf4ff;border-color:inherit;font-weight:bold;text-align:left;vertical-align:middle}
+.tg .tg-mjdq{background-color:#ffce93;border-color:inherit;font-weight:bold;text-align:left;vertical-align:top}
+.tg .tg-cjtp{background-color:#ecf4ff;border-color:inherit;text-align:left;vertical-align:top}
+.tg .tg-pidv{background-color:#ffce93;border-color:inherit;text-align:left;vertical-align:top}
+.tg .tg-g7sd{border-color:inherit;font-weight:bold;text-align:left;vertical-align:middle}
+.tg .tg-0pky{border-color:inherit;text-align:left;vertical-align:top}
