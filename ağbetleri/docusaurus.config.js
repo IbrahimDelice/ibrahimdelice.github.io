@@ -80,7 +80,7 @@ const config = {
           },
           {to: '/blog', label: 'Günce', position: 'left'},
           {
-            href: 'https://github.com/facebook/docusaurus',
+            href: 'https://github.com/ibrahimdelice',
             label: 'GitHub',
             position: 'right',
           },
@@ -130,7 +130,7 @@ const config = {
             ],
           },
         ],
-        copyright: `Copyright © ${new Date().getFullYear()} Hacı İbrahim DELİCE'nin resmî betleri. Volkan TAŞ Docusaurus kullanılarak kurdu.`,
+        copyright: `Saklıhakklar © ${new Date().getFullYear()} Hacı İbrahim DELİCE'nin resmî betlerini Volkan TAŞ Docusaurus kullanılarak kurmuştur.`,
       },
       prism: {
         theme: lightCodeTheme,
