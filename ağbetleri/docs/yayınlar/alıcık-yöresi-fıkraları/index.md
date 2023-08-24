@@ -1,4 +1,5 @@
 ---
+slug: alıcık-yöresi-fıkraları
 sidebar_position: 1
 ---
 

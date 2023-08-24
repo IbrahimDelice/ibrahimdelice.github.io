@@ -1,4 +1,5 @@
 ---
+slug: türkçede-fiil-çekimlerine-yeni-bir-bakış
 sidebar_position: 1
 tags: [
     Türkçe, Türkiye Türkçesi, Turkey Turkish,
@@ -14,6 +15,8 @@ tags: [
 H. İbrahim DELİCE[^1]
 
 [^1]: Cumhuriyet Üniversitesi Edebiyat Fakültesi, Çağdaş Türk Lehçeleri ve Edebiyatları Bölümü öğretim üyesi.
+
+[PDF'yi oku](https://3a9ef3cb-e93c-4633-bd1d-5a58e6ae1db8.filesusr.com/ugd/dc3527_84d218acd64a461cafbbafbb389297d6.pdf)
 
 ### Özet
 Türkçede fiil çekimleri üzerine dil araştırmacıları arasında bir uzlaşı sağlanmış gibi
