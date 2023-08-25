@@ -73,10 +73,19 @@ const config = {
         },
         items: [
           {
-            type: 'docSidebar',
-            sidebarId: 'tutorialSidebar',
+            to: '/docs/category/yayınlar/',
             position: 'left',
-            label: 'Yayınlar & Makaleler',
+            label: 'Yayınlar',
+          },
+          {
+            to: '/docs/category/makaleler/',
+            position: 'left',
+            label: 'Makaleler',
+          },
+          {
+            to: '/docs/category/şiirler/',
+            position: 'left',
+            label: 'Şiirler',
           },
           {to: '/blog', label: 'Günce', position: 'left'},
           {
