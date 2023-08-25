@@ -169,8 +169,4 @@ KORKMAZ Z. (2003a) Gramer Terimleri Sözlüğü. Türk Dil Kurumu Yayınları, G
 KORKMAZ Z. (2003b) Türkiye Türkçesi Grameri (Şekil Bilgisi). TDK Yay., Ankara.  
 TÜRKÇE SÖZLÜK (2005), Ankara, TDK Yayınları  
 
-<<<<<<< HEAD
-ALINTI YAP (APA): DELİCE, H. İ.(2009).[-T- + -tır-] Yapısındaki Fiillerde -t- İle –tır- Eklerinin Bulunuşu ve -t- nin İlave Ses Olarak Kullanımı. Journal of Turkish Studies. (Turkish Studies International Periodical For the Languages, Literature and History of Turkish or Turkic Volume 4/8 Fall 2009)   
-=======
-ALINTI YAP: APA: H. İbrahim DELİCE.(2009).[-T- + -tır-] Yapısındaki Fiillerde -t- İle –tır- Eklerinin Bulunuşu ve -t- nin İlave Ses Olarak Kullanımı.Journal of Turkish Studies.
->>>>>>> 7835bedccac12be78344db2c604f4b23cf631369
+ALINTI YAP (APA): DELİCE, H. İ. (2009).[-T- + -tır-] Yapısındaki Fiillerde -t- İle –tır- Eklerinin Bulunuşu ve -t- nin İlave Ses Olarak Kullanımı. Journal of Turkish Studies. (Turkish Studies International Periodical For the Languages, Literature and History of Turkish or Turkic Volume 4/8 Fall 2009)   
