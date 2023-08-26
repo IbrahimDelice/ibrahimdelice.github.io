@@ -4,7 +4,7 @@ import styles from './styles.module.css';
 
 const FeatureList = [
   {
-    title: 'Yayınlarım',
+    title: 'Bildirilerim',
     Svg: require('@site/static/img/undraw_docusaurus_mountain.svg').default,
     description: (
       <>
@@ -23,6 +23,15 @@ const FeatureList = [
   },
   {
     title: 'Kitaplarım',
+    Svg: require('@site/static/img/undraw_docusaurus_react.svg').default,
+    description: (
+      <>
+        ...
+      </>
+    ),
+  },
+  {
+    title: 'Şiirlerim',
     Svg: require('@site/static/img/undraw_docusaurus_react.svg').default,
     description: (
       <>
