@@ -144,7 +144,7 @@ const config = {
             ],
           },
         ],
-        copyright: `Saklıhakklar © ${new Date().getFullYear()} Hacı İbrahim DELİCE'nin resmî betlerini Volkan TAŞ Docusaurus kullanılarak kurmuştur.`,
+        copyright: `Saklıhakklar © ${new Date().getFullYear()} Hacı İbrahim DELİCE'nin resmî betlerini Volkan TAŞ Docusaurus'u kullanarak kurmuştur.`,
       },
       prism: {
         theme: lightCodeTheme,
