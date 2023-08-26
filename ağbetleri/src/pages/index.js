@@ -31,24 +31,29 @@ function Hakkımda() {
     <section style={{ marginBottom: 4 + 'em' }}>
       <div className="container">
         <div className="row block">
-          <h1>Hacı İbrahim DELİCE Kimdir?</h1>
+          <h1>ÖZGEÇMİŞ</h1>
 
           <img src='img/Hacı_İbrahim_DELİCE.jpg' alt="Hacı İbrahim DELİCE" className='fr y30 boşluk' />
           <p>
-            1964 Yılında, Sivas-Yıldızeli'ne bağlı Cumhuriyet (Kızıllı) köyünde dünyaya geldim.
+            1964 Yılında, Sivas-Yıldızeli'ne bağlı Cumhuriyet (Kızıllı) köyünde dünyaya geldi.
           </p>
           <p>
-            İlk öğrenimi, Kızıllı köyünde; orta öğrenimini, Sivas'ta tamamladım. 1979 yılında başladığım Selçuk Üniversitesi, Fen-Edebiyat Fakültesi, Türk Dili ve Edebiyatı Bölümünden 1984 yılında mezun oldum.
+            İlk öğrenimini, köyünde; orta öğrenimini, Sivas'ta tamamladı. 1979 yılında başladığı Selçuk Üniversitesi, Fen-Edebiyat Fakültesi, Türk Dili ve Edebiyatı Bölümünden 1984 yılında mezun oldu.
           </p>
 
           <p>  
-            Yüksek lisansı, 1992 yılında, Cumhuriyet Üniversitesi, Sosyal Bilimler Enstitüsünde; doktorasını, 1996 yılında, Fırat Üniversitesi, Sosyal Bilimler Enstitüsünde tamamladım.
+            Yüksek lisansını, 1992 yılında, Cumhuriyet Üniversitesi, Sosyal Bilimler Enstitüsünde; doktorasını, 1996 yılında, Fırat Üniversitesi, Sosyal Bilimler Enstitüsünde tamamladı.
           </p>
           <p>
-            1985 ~ 1989 yılları arasında, Akşehir Reis Lisesinde; 1990 yılında, Sivas İmam-Hatip Lisesinde Türk Dili ve Edebiyatı öğretmenliği yaptım. 1990 yılında Cumhuriyet Üniversitesi, Fen-Edebiyat Fakültesi, Türk Dili ve Edebiyatı Bölümünde araştırma görevliliğine başladım.
+            1985 ~ 1989 yılları arasında, Akşehir Reis ve 1990 yılında, Sivas İmam-Hatip Lisesinde Türk Dili ve Edebiyatı öğretmenliği yaptı. 1990 yılında Cumhuriyet Üniversitesi, Fen-Edebiyat Fakültesi, Türk Dili ve Edebiyatı Bölümünde araştırma görevliliğine başladı.
           </p>
           <p>
-            Hâlen Cumhuriyet Üniversitesi, Fen-Edebiyat Fakültesi, Çağdaş Türk Lehçeleri  ve Edebiyatları Bölümü, Oğuz Gurubu Anabilim Dalında profesör kadrosunda çalışmaktayım.
+            Cumhuriyet Üniversitesi, Fen-Edebiyat Fakültesi, Türk Dili ve Edebiyatı Bölümü, Yeni Türk Dili ile Çağdaş Türk Lehçeleri  ve Edebiyatları Bölümü, Oğuz Grubu Anabilim Dalında öğretim üyesi olarak çalıştı.
+          
+            <p>  
+            2023 yılında Afyon Kocatepe Üniversitesine geçti ve hâlen burada akademik faaliyetlerini sürdürmektedir.
+          </p>
+
           </p></div>
       </div>
     </section >)
