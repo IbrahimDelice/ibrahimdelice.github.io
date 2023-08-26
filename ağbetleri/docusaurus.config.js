@@ -73,22 +73,22 @@ const config = {
         },
         items: [
           {
-            to: '/makaleler/',
+            to: '/makaleler',
             position: 'left',
             label: 'Makaleler',
           },
           {
-            to: '/bildiriler/',
+            to: '/bildiriler',
             position: 'left',
             label: 'Bildiriler',
           },
           {
-            to: '/kitaplar/',
+            to: '/kitaplar',
             position: 'left',
             label: 'Kitaplar',
           },
           {
-            to: '/şiirler/',
+            to: '/şiirler',
             position: 'left',
             label: 'Şiirler',
           },
@@ -196,46 +196,46 @@ const config = {
         contextualSearch: true,
       },
     }),
-  // plugins: [
-  //   [
-  //     '@docusaurus/plugin-content-docs',
-  //     {
-  //       id: 'shiirler',
-  //       path: 'docs/şiirler',
-  //       routeBasePath: 'şiirler',
-  //       sidebarPath: require.resolve('./sidebars.js'),
-  //       editUrl:
-  //           'https://github.com/ibrahimdelice/ibrahimdelice.github.io/edit/main/ağbetleri/',
-  //     },
-  //   ],
-  //   [
-  //     '@docusaurus/plugin-content-docs',
-  //     {
-  //       id: 'kitaplar',
-  //       path: 'docs/kitaplar',
-  //       routeBasePath: 'kitaplar',
-  //       sidebarPath: require.resolve('./sidebars.js'),
-  //     },
-  //   ],
-  //   [
-  //     '@docusaurus/plugin-content-docs',
-  //     {
-  //       id: 'bildiriler',
-  //       path: 'docs/bildiriler',
-  //       routeBasePath: 'bildiriler',
-  //       sidebarPath: require.resolve('./sidebars.js'),
-  //     },
-  //   ],
-  //   [
-  //     '@docusaurus/plugin-content-docs',
-  //     {
-  //       id: 'makaleler',
-  //       path: 'docs/makaleler',
-  //       routeBasePath: 'makaleler',
-  //       sidebarPath: require.resolve('./sidebars.js'),
-  //     },
-  //   ],
-  // ],
+  plugins: [
+    [
+      '@docusaurus/plugin-content-docs',
+      {
+        id: 'shiirler',
+        path: 'şiirler',
+        routeBasePath: 'şiirler',
+        sidebarPath: require.resolve('./sidebars.js'),
+        editUrl:
+            'https://github.com/ibrahimdelice/ibrahimdelice.github.io/edit/main/ağbetleri/',
+      },
+    ],
+    [
+      '@docusaurus/plugin-content-docs',
+      {
+        id: 'kitaplar',
+        path: 'kitaplar',
+        routeBasePath: 'kitaplar',
+        sidebarPath: require.resolve('./sidebars.js'),
+      },
+    ],
+    [
+      '@docusaurus/plugin-content-docs',
+      {
+        id: 'bildiriler',
+        path: 'bildiriler',
+        routeBasePath: 'bildiriler',
+        sidebarPath: require.resolve('./sidebars.js'),
+      },
+    ],
+    [
+      '@docusaurus/plugin-content-docs',
+      {
+        id: 'makaleler',
+        path: 'makaleler',
+        routeBasePath: 'makaleler',
+        sidebarPath: require.resolve('./sidebars.js'),
+      },
+    ],
+  ],
 };
 
 module.exports = config;
