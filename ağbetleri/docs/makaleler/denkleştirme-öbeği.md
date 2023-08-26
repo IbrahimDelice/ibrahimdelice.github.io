@@ -5,10 +5,10 @@ sidebar_position: 1
 
 # Denkleştirme Öbeği  
 
-DENKLEŞTİRME ÖBEĞİ  
-ACUALIZATION PHRASE  
+[Dergideki Sayfa: 1] 
 
-[Dergideki Sayfa: 1]  
+DENKLEŞTİRME ÖBEĞİ  
+ACUALIZATION PHRASE   
 
 ABSTRACT  
 
