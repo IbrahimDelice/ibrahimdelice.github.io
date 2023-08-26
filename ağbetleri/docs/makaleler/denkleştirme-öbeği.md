@@ -10,8 +10,6 @@ ACUALIZATION PHRASE
 
 [Dergideki Sayfa: 1]  
 
-<div style="text-align: justify;">
-
 ABSTRACT  
 
 In Turkish syntax despite of all the work syntactic structures being named yet unfortunately have been encountered. There is no name of phrase accourding to function of structure like omuz omuza, yan yana, el ele. In this work, the term ‘acualization phrase' for this kind of structures would be offered. Key Words: Syntax, phrase, acualization, word group, word block, acualization phrase.  
@@ -39,5 +37,3 @@ ERGİN, Muharrem (1994); Üniversiteler İçin Türk Dili, Bayrak Yayınları, �
 KARAHAN, Leyla (2005); Türkçede Sözdizimi, Akçağ Yayınları, 9. Baskı, Ankara.  
 
 ALINTI YAP (APA): DELİCE, H. İ. (2008). DENKLEŞTİRME ÖBEĞİ.The Journal of Academic Social Science Studies (Yıl-Sayı: 2008-1 Issue 1)  
-
-</div> <pre lang="html">  
