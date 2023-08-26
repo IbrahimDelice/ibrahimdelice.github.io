@@ -1,3 +1,11 @@
-import DocCardList from '@theme/DocCardList';
+---
+sidebar_position: 1
+---
 
-<DocCardList />
+# Girmece
+
+Birçok makale, bildiri, şiir ve birkaç kitap okumanız için burada.
+
+<!-- import DocCardList from '@theme/DocCardList';
+
+<DocCardList /> -->
