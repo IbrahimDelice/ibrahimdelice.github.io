@@ -73,14 +73,19 @@ const config = {
         },
         items: [
           {
-            to: '/docs/category/yayınlar/',
-            position: 'left',
-            label: 'Yayınlar',
-          },
-          {
             to: '/docs/category/makaleler/',
             position: 'left',
             label: 'Makaleler',
+          },
+          {
+            to: '/docs/category/bildiriler/',
+            position: 'left',
+            label: 'Bildiriler',
+          },
+          {
+            to: '/docs/category/kitaplar/',
+            position: 'left',
+            label: 'Kitaplar',
           },
           {
             to: '/docs/category/şiirler/',
@@ -102,7 +107,7 @@ const config = {
             title: 'İçerikler',
             items: [
               {
-                label: 'Yayınlar & Makaleler',
+                label: 'Makaleler ve Bildiriler',
                 to: '/docs/giriş/',
               },
               {
