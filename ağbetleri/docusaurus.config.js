@@ -6,7 +6,7 @@ const darkCodeTheme = require('prism-react-renderer/themes/dracula');
 
 /** @type {import('@docusaurus/types').Config} */
 const config = {
-  title: 'İbrahim DELİCE',
+  title: 'Hacı İbrahim DELİCE',
   tagline: 'Prof. Dr.',
   favicon: 'img/favicon.ico',
 
