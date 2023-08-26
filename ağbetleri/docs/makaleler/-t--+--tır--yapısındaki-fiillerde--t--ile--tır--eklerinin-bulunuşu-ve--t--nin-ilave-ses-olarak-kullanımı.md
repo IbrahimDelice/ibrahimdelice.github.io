@@ -7,6 +7,8 @@ sidebar_position: 1
 
 [Dergideki Sayfa: 159]  
 
+<div style="text-align:justify">
+
 ÖZET
 Türkçe sözdiziminde sesbilgisel işlevle yer alan sesler olarak ı, i, u, ü ünlüleri ile y, n ünsüzleri kabul edilir. Kimi araştırıcılar bunlara a, e ünlüleri ile s, ş ünsüzlerini de ilave etmektedir. Bu sesler arasında fiil gövdeleri ile ettirgenlik eki arasında kullanılan -t- zikredilmemektedir. Oysa, bazı örneklerde doğrudan sesbilgisel işlevle bazı örneklerde de dilbilgisel işlevi sezilemediğinden sesbilgisel işlevde imiş gibi kullanıldığı görülmektedir. Bu yazıda Türkçe Sözlük’ten (10. baskı, 2005) listelenen -t- + -tIryapılı fiillerde -t- ve -tIr- ın işlevleri   orgulanacak ve -t- nin bazı durumlarda ilave ses olduğu gösterilmeye çalışılacaktır. 
 
@@ -170,3 +172,4 @@ KORKMAZ Z. (2003b) Türkiye Türkçesi Grameri (Şekil Bilgisi). TDK Yay., Ankar
 TÜRKÇE SÖZLÜK (2005), Ankara, TDK Yayınları  
 
 ALINTI YAP (APA): DELİCE, H. İ. (2009).[-T- + -tır-] Yapısındaki Fiillerde -t- İle –tır- Eklerinin Bulunuşu ve -t- nin İlave Ses Olarak Kullanımı. Journal of Turkish Studies. (Turkish Studies International Periodical For the Languages, Literature and History of Turkish or Turkic Volume 4/8 Fall 2009)   
+</div>  
