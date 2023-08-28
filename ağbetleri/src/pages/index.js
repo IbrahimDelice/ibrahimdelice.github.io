@@ -17,8 +17,8 @@ function HomepageHeader() {
         <div className={styles.buttons}>
           <Link
             className="button button--secondary button--lg"
-            to="/docs">
-            Yazdıklarımı okumaya buyurun!
+            to="/makaleler">
+            Makalelerimi okumaya buyurun!
           </Link>
         </div>
       </div>
@@ -31,7 +31,7 @@ function Hakkımda() {
     <section style={{ marginBottom: 4 + 'em' }}>
       <div className="container">
         <div className="row block">
-          <h1>ÖZGEÇMİŞ</h1>
+          <h1>Hacı İbrahim DELİCE'nin Özgeçmişi</h1>
 
           <img src='img/Hacı_İbrahim_DELİCE.jpg' alt="Hacı İbrahim DELİCE" className='fr y30 boşluk' />
           <p>
@@ -63,7 +63,7 @@ export default function Home() {
   const { siteConfig } = useDocusaurusContext();
   return (
     <Layout
-      title={`Hello from ${siteConfig.title}`}
+      title={`${siteConfig.title}'nin kitapları, makaleleri, bildirileri, şiirleri, ...`}
       description="Description will go into a meta tag in <head />">
       <HomepageHeader />
       <main>
