@@ -61,3 +61,30 @@ th{
 .tg .tg-pidv{background-color:#ffce93;border-color:inherit;text-align:left;vertical-align:top}
 .tg .tg-g7sd{border-color:inherit;font-weight:bold;text-align:left;vertical-align:middle}
 .tg .tg-0pky{border-color:inherit;text-align:left;vertical-align:top}
+
+.hero {
+  background: url("/img/hid.png") no-repeat center right;
+  background-size: contain;
+  color: #333;
+  background-color: #ffce09;
+}
+.hero .container{
+  padding-right: 30%;
+}
+
+@media screen and (max-width:768px) {
+  .hero .container{
+    padding-right: 0%;
+    font-size: 2rem;
+    text-align: left;
+  }
+  .hero h1{
+    font-size:1.5rem;
+  }
+  .hero .button{
+    --ifm-button-size-multiplier: 0.8;
+  }
+  .hero .buttons_src-pages-index-module{
+    justify-content: left;
+  }
+}
