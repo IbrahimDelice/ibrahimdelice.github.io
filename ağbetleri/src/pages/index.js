@@ -56,6 +56,19 @@ function Hakkımda() {
     </section >)
 }
 
+function Dua() {
+  return (
+    <section style={{ marginBottom: 4 + 'em' }}>
+      <div className="container">
+        <div className="row block justify">
+          <h1 className="left">Dua</h1>
+
+          <p>...Dua...</p>
+          </div>
+      </div>
+    </section >)
+}
+
 export default function Home() {
   const { siteConfig } = useDocusaurusContext();
   return (
@@ -65,6 +78,7 @@ export default function Home() {
       <HomepageHeader />
       <main>
         <HomepageFeatures />
+        <Dua/>
         <Hakkımda />
       </main>
     </Layout>
