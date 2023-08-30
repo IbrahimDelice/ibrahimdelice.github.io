@@ -70,6 +70,7 @@ th{
 .tg .tg-g7sd{border-color:inherit;font-weight:bold;text-align:left;vertical-align:middle}
 .tg .tg-0pky{border-color:inherit;text-align:left;vertical-align:top}
 
+<<<<<<< Updated upstream
 .hero {
   background: url("/img/hid.png") no-repeat center right;
   background-size: contain;
@@ -99,3 +100,37 @@ th{
     justify-content: left;
   }
 }
+=======
+.theme-doc-markdown{
+  text-align: justify;
+}
+.theme-doc-markdown :is(h1, h2, h3, h4, h5, h6){
+  text-align: left;
+}
+
+/* 1. düzey başlık - öbür adı ile ana başlık */
+.theme-doc-markdown h1{
+  font-size: 22pt;
+}
+/* 2. düzey başlık - öbür adı ile yazı içindeki bölümlerin ana başlıkları */
+.theme-doc-markdown h2{
+  font-size: 18pt;
+}
+
+/* 3. düzey başlık - öbür adı ile yazı içindeki bölümlerin alt başlıkları */
+.theme-doc-markdown h3{
+  font-size: 14pt;
+}
+
+.theme-doc-markdown h4{
+  font-size: 13pt;
+}
+
+.theme-doc-markdown h5{
+  font-size: 12pt;
+}
+
+.theme-doc-markdown h6{
+  font-size: 11pt;
+}
+>>>>>>> Stashed changes

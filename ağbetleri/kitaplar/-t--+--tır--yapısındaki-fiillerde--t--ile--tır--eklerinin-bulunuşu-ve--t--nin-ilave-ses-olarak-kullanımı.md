@@ -1,21 +1,28 @@
 ---
 slug: -t--+--tır--yapısındaki-fiillerde--t--ile--tır--eklerinin-bulunuşu-ve--t--nin-ilave-ses-olarak-kullanımı
 sidebar_position: 1
+tags: 
+   - Yardımcı ses 
+   - fiil 
+   - ettirgenlik 
+   - oldurganlık 
+   - kılışlama
 ---
 
 # [-T- + -tır-] Yapısındaki Fiillerde -t- ile -tır- Eklerinin Bulunuşu ve -t- nin İlave Ses Olarak Kullanımı
 
 [Dergideki Sayfa: 159]  
 
-## ÖZET
-Türkçe sözdiziminde sesbilgisel işlevle yer alan sesler olarak ı, i, u, ü ünlüleri ile y, n ünsüzleri kabul edilir. Kimi araştırıcılar bunlara a, e ünlüleri ile s, ş ünsüzlerini de ilave etmektedir. Bu sesler arasında fiil gövdeleri ile ettirgenlik eki arasında kullanılan -t- zikredilmemektedir. Oysa, bazı örneklerde doğrudan sesbilgisel işlevle bazı örneklerde de dilbilgisel işlevi sezilemediğinden sesbilgisel işlevde imiş gibi kullanıldığı görülmektedir. Bu yazıda Türkçe Sözlük’ten (10. baskı, 2005) listelenen -t- + -tIryapılı fiillerde -t- ve -tIr- ın işlevleri   orgulanacak ve -t- nin bazı durumlarda ilave ses olduğu gösterilmeye çalışılacaktır. 
+## Özet
 
-Anahtar Kelimeler: Yardımcı ses, fiil, ettirgenlik, oldurganlık, kılışlama.  
+Türkçe sözdiziminde sesbilgisel işlevle yer alan sesler olarak **ı**, **i**, **u**, **ü** ünlüleri ile **y**, **n** ünsüzleri kabul edilir. Kimi araştırıcılar bunlara **a**, **e** ünlüleri ile **s**, **ş** ünsüzlerini de ilave etmektedir. Bu sesler arasında fiil gövdeleri ile ettirgenlik eki arasında kullanılan **-t-** zikredilmemektedir. Oysa, bazı örneklerde doğrudan sesbilgisel işlevle bazı örneklerde de dilbilgisel işlevi sezilemediğinden sesbilgisel işlevde imiş gibi kullanıldığı görülmektedir. Bu yazıda Türkçe Sözlük’ten (10. baskı, 2005) listelenen **-t-** + -tIryapılı fiillerde **-t-** ve **-tIr-** ın işlevleri   orgulanacak ve **-t-** nin bazı durumlarda ilave ses olduğu gösterilmeye çalışılacaktır. 
 
-FINDING –t- AND –tIr- AFFIXES IN VERBS OF [ -t- + -tIr-] STRUCTURE AND USING –t- AS ADDITION VOICE  
+**Anahtar Kelimeler:** *Yardımcı ses, fiil, ettirgenlik, oldurganlık, kılışlama.*  
 
-ABSTRACT  
-It is accepted ı, i, u, ü vowels and y, n consanats are accepted as affixes which take part in Turkish syntax with phonological function. Some resarchers also add a, evowels and s, ş consanants to these affixes. It isn’t mentioned about t which is used between verb themes and causative affix. Whereas it is seen that it is used directly with phonological function in some examples and it [Dergideki Sayfa: 160]  pretends to use with phonological function because its gramatical function couldn’t be perceived in some examples. In this article it will be interrogated the functions of –t- and –tIr- in verbs with structure of –t- + -tIr- which has been listed from Turkish Dictionary and it will be worked to see that –t- is an additional voice in some conditions.  
+# Finding –t- And –tIr- Affixes In Verbs Of [-t- + -tIr-] Structure And Using –t- As Addition Voice  
+
+## ABSTRACT  
+It is accepted **ı**, **i**, **u**, **ü** vowels and **y**, n consanats are accepted as affixes which take part in Turkish syntax with phonological function. Some resarchers also add a, evowels and s, ş consanants to these affixes. It isn’t mentioned about t which is used between verb themes and causative affix. Whereas it is seen that it is used directly with phonological function in some examples and it [Dergideki Sayfa: 160]  pretends to use with phonological function because its gramatical function couldn’t be perceived in some examples. In this article it will be interrogated the functions of –t- and –tIr- in verbs with structure of –t- + -tIr- which has been listed from Turkish Dictionary and it will be worked to see that –t- is an additional voice in some conditions.  
 
 Key Words: Auxiliary voice, verb, causative, factitive, kılışlama.  
 
@@ -52,10 +59,11 @@ Bu fiiller, çatı (yüklemin kendine bağlı öğelerin anlamsal ve sözdizimse
 
 Bu fiilleri örneklendirmek için kullanılan cümleler, -varsaTürkçe Sözlük (2005)‟ten Türkçe Sözlük‟te kaynak gösterildiği şekliyle alınacaktır. Türkçe Sözlük‟ten örnek bulunamazsa kullanıma uygun örnek bir cümle kurgulanacaktır.  
 
-1. İlave ses + ettirgenlik yapısı  
-Maddebaşı olan –t- + -tIr- yapılı fiiler içinde bu başlığa uyacak üç örnek karşımıza çıkmaktadır.  
+#### 1. İlave ses + ettirgenlik yapısı  
 
-Bu örneklerde kullanılan -t- nin sözdizimsel hiçbir işlevi yoktur; zira, ettirgenlik veya oldurganlık ekinin kullanılmadığı örneklerde bu ses ortaya çıkmamaktadır. Bu iki sözcükte ortaya çıkış nedeni sadece fiil tabanı ile ettirgenlik veya oldurganlık ekini birleştirmek -yani, kaynaştırmak-tır.  
+Maddebaşı olan –t- + -tIr- yapılı fiiler içinde bu başlığa uyacak üç örnek karşımıza çıkmaktadır. 
+
+Bu örneklerde kullanılan -t- nin sözdizimsel hiçbir işlevi yoktur; zira, ettirgenlik veya oldurganlık ekinin kullanılmadığı örneklerde bu ses ortaya çıkmamaktadır. Bu iki sözcükte ortaya çıkış nedeni sadece fiil tabanı ile ettirgenlik veya oldurganlık ekini birleştirmek -yani, kaynaştırmak-tır.
 
 Bu örnekler şunlardır:
 
