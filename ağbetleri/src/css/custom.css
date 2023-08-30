@@ -34,6 +34,9 @@
 .fr{
   float: right;
 }
+.justify{
+  text-align: justify;
+}
 .y30{
   width:40%;
 }
@@ -42,7 +45,12 @@ img.boşluk{margin:10px;}
 main *{
   scroll-margin-top: 85px;
 }
-
+.left{
+  text-align: left;
+}
+.yuvarlak-köşeli{
+  border-radius: 15px 35px 5px 20px;
+}
 table{
   position: relative;
 }
@@ -73,6 +81,9 @@ th{
 }
 
 @media screen and (max-width:768px) {
+  .row{
+    margin:0;
+  }
   .hero .container{
     padding-right: 0%;
     font-size: 2rem;

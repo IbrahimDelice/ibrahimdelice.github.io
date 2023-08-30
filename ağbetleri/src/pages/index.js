@@ -30,12 +30,12 @@ function Hakkımda() {
   return (
     <section style={{ marginBottom: 4 + 'em' }}>
       <div className="container">
-        <div className="row block">
-          <h1>Hacı İbrahim DELİCE'nin Özgeçmişi</h1>
+        <div className="row block justify">
+          <h1 className="left">Hacı İbrahim DELİCE'nin Özgeçmişi</h1>
 
-          <img src='img/Hacı_İbrahim_DELİCE.jpg' alt="Hacı İbrahim DELİCE" className='fr y30 boşluk' />
+          <img src='img/Hacı_İbrahim_DELİCE.jpg' alt="Hacı İbrahim DELİCE" className='fr y30 yuvarlak-köşeli boşluk' />
           <p>
-            1964 Yılında, Sivas-Yıldızeli'ne bağlı Cumhuriyet (Kızıllı) köyünde dünyaya geldi.
+            1964 yılında, Sivas-Yıldızeli'ne bağlı Cumhuriyet (Kızıllı) köyünde dünyaya geldi.
           </p>
           <p>
             İlk öğrenimini, köyünde; orta öğrenimini, Sivas'ta tamamladı. 1979 yılında başladığı Selçuk Üniversitesi, Fen-Edebiyat Fakültesi, Türk Dili ve Edebiyatı Bölümünden 1984 yılında mezun oldu.
@@ -49,12 +49,9 @@ function Hakkımda() {
           </p>
           <p>
             Cumhuriyet Üniversitesi, Fen-Edebiyat Fakültesi, Türk Dili ve Edebiyatı Bölümü, Yeni Türk Dili ile Çağdaş Türk Lehçeleri  ve Edebiyatları Bölümü, Oğuz Grubu Anabilim Dalında öğretim üyesi olarak çalıştı.
-          
-            <p>  
             2023 yılında Afyon Kocatepe Üniversitesine geçti ve hâlen burada akademik faaliyetlerini sürdürmektedir.
           </p>
-
-          </p></div>
+          </div>
       </div>
     </section >)
 }
