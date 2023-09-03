@@ -16,6 +16,9 @@ tags:
 ## Özet
 
 Türkçe sözdiziminde sesbilgisel işlevle yer alan sesler olarak **ı**, **i**, **u**, **ü** ünlüleri ile **y**, **n** ünsüzleri kabul edilir. Kimi araştırıcılar bunlara **a**, **e** ünlüleri ile **s**, **ş** ünsüzlerini de ilave etmektedir. Bu sesler arasında fiil gövdeleri ile ettirgenlik eki arasında kullanılan **-t-** zikredilmemektedir. Oysa, bazı örneklerde doğrudan sesbilgisel işlevle bazı örneklerde de dilbilgisel işlevi sezilemediğinden sesbilgisel işlevde imiş gibi kullanıldığı görülmektedir. Bu yazıda Türkçe Sözlük’ten (10. baskı, 2005) listelenen **-t-** + -tIryapılı fiillerde **-t-** ve **-tIr-** ın işlevleri   orgulanacak ve **-t-** nin bazı durumlarda ilave ses olduğu gösterilmeye çalışılacaktır. 
+## Özet
+
+Türkçe sözdiziminde sesbilgisel işlevle yer alan sesler olarak **ı**, **i**, **u**, **ü** ünlüleri ile **y**, **n** ünsüzleri kabul edilir. Kimi araştırıcılar bunlara **a**, **e** ünlüleri ile **s**, **ş** ünsüzlerini de ilave etmektedir. Bu sesler arasında fiil gövdeleri ile ettirgenlik eki arasında kullanılan **-t-** zikredilmemektedir. Oysa, bazı örneklerde doğrudan sesbilgisel işlevle bazı örneklerde de dilbilgisel işlevi sezilemediğinden sesbilgisel işlevde imiş gibi kullanıldığı görülmektedir. Bu yazıda Türkçe Sözlük’ten (10. baskı, 2005) listelenen **-t-** + -tIryapılı fiillerde **-t-** ve **-tIr-** ın işlevleri   orgulanacak ve **-t-** nin bazı durumlarda ilave ses olduğu gösterilmeye çalışılacaktır. 
 
 **Anahtar Kelimeler:** *Yardımcı ses, fiil, ettirgenlik, oldurganlık, kılışlama.*  
 
