@@ -253,14 +253,13 @@ th {
   flex-wrap: wrap;
   align-items: flex-start;
   flex-direction: column;
-  gap: 1px;
 }
 
 .kitap > .içerik h2{
   font-size: 12pt !important; 
   margin:0;
 }
-.kitap > a{
+.kitap > a:first-child{
   position: absolute;
   left:0;
   right: 0;
