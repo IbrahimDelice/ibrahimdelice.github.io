@@ -65,7 +65,6 @@ table {
   position: relative;
 }
 
-<<<<<<< Updated upstream
 th {
   position: sticky;
   top: 0;
@@ -144,9 +143,6 @@ th {
   vertical-align: top
 }
 
-=======
-<<<<<<< Updated upstream
->>>>>>> Stashed changes
 .hero {
   background: url("/img/hid.png") no-repeat center right;
   background-size: contain;
