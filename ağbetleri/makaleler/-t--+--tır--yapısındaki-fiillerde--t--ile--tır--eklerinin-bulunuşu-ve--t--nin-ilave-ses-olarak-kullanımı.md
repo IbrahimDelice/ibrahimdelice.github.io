@@ -3,17 +3,7 @@ slug: -t--+--tır--yapısındaki-fiillerde--t--ile--tır--eklerinin-bulunuşu-ve
 sidebar_position: 1
 ---
 
-# [-T- + -tır-] Yapısındaki Fiillerde -t- ile -tır- Eklerinin Bulunuşu ve -t- nin İlave Ses Olarak Kullanımı
-
-
-
-:::info Bilgi
-
-Derginin 159. sayfasında bu yazıyı bulabilirsiniz.  
-Turkish Studies, 4. cilt, 8. sayı, 159-165. sayfalar, 2009 (Scopus)
-
-:::
-
+# [-t- + -tır-] Yapısındaki Fiillerde -t- ile -tır- Eklerinin Bulunuşu ve -t- nin İlave Ses Olarak Kullanımı
 
 import Tabs from '@theme/Tabs';
 import TabItem from '@theme/TabItem';
@@ -43,7 +33,12 @@ Auxiliary voice, verb, causative, factitive, kılışlama.
   </TabItem>
 </Tabs>
 
+:::info Bilgi
 
+Derginin 159. sayfasında bu yazıyı bulabilirsiniz.  
+Turkish Studies, 4. cilt, 8. sayı, 159-165. sayfalar, 2009 (Scopus)
+
+:::
 
 Dilbilgisi çalışmalarında ilave sesler, “Belirli durumlarda kelime kök veya gövdelerine eklerin bağlanması sırasında kullanılan ses.” (Korkmaz 2003a: 35) şeklinde tanımlanmakta; bağlayıcı ünlü ve bağlayıcı ünsüz olarak da kendi içinde iki kısma ayrılarak (Korkmaz 2003a: 35) incelenmektedir.  
 
@@ -193,4 +188,4 @@ Bu durum fiili genişleten diğer eklerle fiil tabanı arasında da “İnsan ke
 **KORKMAZ Z.** (2003b) Türkiye Türkçesi Grameri (Şekil Bilgisi). TDK Yay., Ankara.  
 TÜRKÇE SÖZLÜK (2005), Ankara, TDK Yayınları  
 
-ALINTI YAP (APA): DELİCE, H. İ. (2009).[-T- + -tır-] Yapısındaki Fiillerde `-t-` İle –tır- Eklerinin Bulunuşu ve `-t-` nin İlave Ses Olarak Kullanımı. Journal of Turkish Studies. (Turkish Studies International Periodical For the Languages, Literature and History of Turkish or Turkic Volume 4/8 Fall 2009)   
+ALINTI YAP (APA): DELİCE, H. İ. (2009).[-t- + -tır-] Yapısındaki Fiillerde `-t-` İle –tır- Eklerinin Bulunuşu ve `-t-` nin İlave Ses Olarak Kullanımı. Journal of Turkish Studies. (Turkish Studies International Periodical For the Languages, Literature and History of Turkish or Turkic Volume 4/8 Fall 2009)   
