@@ -63,17 +63,29 @@ function Dua() {
         <div className="row block justify">
           <h1 className="left">Dua</h1>
 
-          <p>Rahmân ve rahîm olan Allah’ın adıyla:</p>
-<p>Ey Rabb’imiz, kalbime genişlik ver;  işimi kolaylaştır! Dilimin bağını çöz; de, insanlar sözümü doğru anlayabilsinler; bana destekçiler ver!</p>
-<p>Ey Rabbimiz, bize dünyada ahirette de iyilik ver. Bizi cehennem azabından koru!</p>
-<p>Ey Rabbimiz, üzerimize sabır yağdır, ayaklarımızı sağlam bastır ve şu kâfir ve zalimlere karşı bize yardım et ve canımı Müslüman olarak al; beni sâlihler arasına kat! Eğer beni bağışlamaz ve bana acımazsan, şüphesiz ziyana uğrayanlardan olurum.</p>
-<p>Ey Rabbimiz, unutursak veya hataya düşersek bizi sorumlu tutma.
+          <p>
+            Rahmân ve rahîm olan Allah’ın adıyla:
+          </p>
+          <p>
+            Ey Rabb’imiz, kalbime genişlik ver; işimi kolaylaştır! 
+            Dilimin bağını çöz; de, insanlar sözümü doğru anlayabilsinler; bana destekçiler ver!
+          </p>
+          <p>
+            Ey Rabbimiz, bize dünyada ahirette de iyilik ver. Bizi cehennem azabından koru!
+          </p>
+          <p>
+            Ey Rabbimiz, üzerimize sabır yağdır, ayaklarımızı sağlam bastır ve şu kâfir ve 
+            zalimlere karşı bize yardım et ve canımı Müslüman olarak al; beni sâlihler 
+            arasına kat! Eğer beni bağışlamaz ve bana acımazsan, şüphesiz ziyana 
+            uğrayanlardan olurum.
+          </p>
+<p>Ey Rabbimiz, unutursak veya hataya düşersek bizi sorumlu tutma.</p>
 <p>Ey Rabbimiz, bizden öncekilere yüklediğin gibi bize de ağır bir yük yükleme. Bize gücümüzün yetmediği işler de yükleme! Bizi affet; bizi bağışla, bize acı! Sen bağışlayanların en iyisisin! Sen bizim mevlâmızsın; kâfirler topluluğuna karşı bize yardım et!</p>
 <p>Ey Rabbimiz, bizi hidayete erdirdikten sonra kalplerimizi eğriltme. Bize katından bir rahmet bahşet; şüphesiz sen çok bahşedensin.</p>
 <p>Ey Rabbimiz, bizi zalimler topluluğu ile beraber bulundurma! Bize, bu dünyada da ahirette de iyilik yaz; şüphesiz sana döneceğiz!</p>
 <p>Ey Rabbimiz, biz yalnız sana tevekkül ettik, bizi zalimler topluluğunun baskı ve şiddetine maruz bırakma!</p>
 <p>Ey Rabbimiz, şüphesiz senden hakkında bilgim olmayan şeyi istemekten sana sığınırım. Başarım ancak senin yardımınladır. Ben yalnızca sana dayanır ve ancak yine sana döneceğim!</p>
-<p>Ey Rabbimiz, beni ve soyumdan gelecekleri namazı devamlı kılanlardan eyle!
+<p>Ey Rabbimiz, beni ve soyumdan gelecekleri namazı devamlı kılanlardan eyle!</p>
 <p>Ey Rabbimiz, hesap olunacağı gün beni, ana babamı ve müminleri bağışla! Küçüklüğümde onlar beni nasıl yetiştirmişlerse, şimdi de sen onlara rahmet et!</p>
 <p>Ey Rabbimiz, gireceğim yere dürüstlükle girmemi; çıkacağım yerden de dürüstlükle çıkmamı sağla. Bana tarafından, hakkıyla yardım edici bir kuvvet ver!</p>
 <p>Ey Rabbimiz, bize katından bir rahmet ver ve içinde bulunduğumuz şu durumda bize kurtuluş ve doğruluğa ulaşmayı kolaylaştır. Rabbim beni, bundan daha doğru olana ulaştırmanı umarım!</p>
@@ -100,8 +112,8 @@ function Dua() {
 <p>Ey Rabbimiz, yegâne galip ve hikmet sahibi, ancak sensin.</p>
 <p>Ey Rabbimiz! Nûrumuzu bizim için tamamla; bizi bağışla; çünkü sen, her şeye kadirsin!</p>
 <p>Ey Rabbimiz, beni, ana babamı, iman etmiş olarak evime girenleri, iman eden erkekleri ve iman eden kadınları bağışla; zalimlerin de ancak helâkini arttır!</p>
-<p></p>Ey Rabbimiz, bana katından temiz bir nesil bahşet. Şüphesiz sen duayı hakkıyla işitensin.</p>
-<p></p>Ey Rabbimiz, biz kendimize zulmettik; eğer bizi bağışlamaz ve bize acımazsan mutlaka ziyân edenlerden oluruz!</p>
+<p>Ey Rabbimiz, bana katından temiz bir nesil bahşet. Şüphesiz sen duayı hakkıyla işitensin.</p>
+<p>Ey Rabbimiz, biz kendimize zulmettik; eğer bizi bağışlamaz ve bize acımazsan mutlaka ziyân edenlerden oluruz!</p>
 <p>Ey Rabbimiz, bizi sana boyun eğenlerden kıl; neslimizden de sana itaat eden bir ümmet çıkar! Bize ibadet usullerimizi göster; tevbemizi kabul et; zira, tevbeleri çokça kabul eden, çok merhametli olan ancak sensin!</p>
 <p>Hamd âlemlerin Rabbi olan sana mahsustur. Sen rahmân ve rahîmsin; ceza gününün sahibisin! Ancak sana kulluk eder ve ancak senden medet umarız. Bize doğru yolu göster; kendilerine lütuf ve ikramda bulunduğun kimselerin yolunu; gazaba uğramışların ve sapmışların yolunu değil!</p>
 <p>Ey Rabbimiz, dualarımı kabul eyle!</p>

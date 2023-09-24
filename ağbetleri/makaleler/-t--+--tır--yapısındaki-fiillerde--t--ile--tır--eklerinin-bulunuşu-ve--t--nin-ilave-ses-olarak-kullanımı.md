@@ -5,25 +5,51 @@ sidebar_position: 1
 
 # [-T- + -tır-] Yapısındaki Fiillerde -t- ile -tır- Eklerinin Bulunuşu ve -t- nin İlave Ses Olarak Kullanımı
 
-[Dergideki Sayfa: 159]  
 
-ÖZET
-Türkçe sözdiziminde sesbilgisel işlevle yer alan sesler olarak ı, i, u, ü ünlüleri ile y, n ünsüzleri kabul edilir. Kimi araştırıcılar bunlara a, e ünlüleri ile s, ş ünsüzlerini de ilave etmektedir. Bu sesler arasında fiil gövdeleri ile ettirgenlik eki arasında kullanılan -t- zikredilmemektedir. Oysa, bazı örneklerde doğrudan sesbilgisel işlevle bazı örneklerde de dilbilgisel işlevi sezilemediğinden sesbilgisel işlevde imiş gibi kullanıldığı görülmektedir. Bu yazıda Türkçe Sözlük’ten (10. baskı, 2005) listelenen -t- + -tIryapılı fiillerde -t- ve -tIr- ın işlevleri   orgulanacak ve -t- nin bazı durumlarda ilave ses olduğu gösterilmeye çalışılacaktır. 
 
-Anahtar Kelimeler: Yardımcı ses, fiil, ettirgenlik, oldurganlık, kılışlama.  
+:::info Bilgi
 
-FINDING –t- AND –tIr- AFFIXES IN VERBS OF [ -t- + -tIr-] STRUCTURE AND USING –t- AS ADDITION VOICE  
+Derginin 159. sayfasında bu yazıyı bulabilirsiniz.  
+Turkish Studies, 4. cilt, 8. sayı, 159-165. sayfalar, 2009 (Scopus)
 
-ABSTRACT  
+:::
+
+
+import Tabs from '@theme/Tabs';
+import TabItem from '@theme/TabItem';
+
+<Tabs>
+  <TabItem value="ÖZET" label="ÖZET" default>  
+
+
+## ÖZET
+Türkçe sözdiziminde sesbilgisel işlevle yer alan sesler olarak ı, i, u, ü ünlüleri ile y, n ünsüzleri kabul edilir. Kimi araştırıcılar bunlara a, e ünlüleri ile s, ş ünsüzlerini de ilave etmektedir. Bu sesler arasında fiil gövdeleri ile ettirgenlik eki arasında kullanılan -t- zikredilmemektedir. Oysa, bazı örneklerde doğrudan sesbilgisel işlevle bazı örneklerde de dilbilgisel işlevi sezilemediğinden sesbilgisel işlevde imiş gibi kullanıldığı görülmektedir. Bu yazıda Türkçe Sözlük’ten (10. baskı, 2005) listelenen -t- + -tIr yapılı fiillerde -t- ve -tIr- ın işlevleri   orgulanacak ve -t- nin bazı durumlarda ilave ses olduğu gösterilmeye çalışılacaktır. 
+
+:::note Anahtar Kelimeler
+Yardımcı ses, fiil, ettirgenlik, oldurganlık, kılışlama.
+:::
+  </TabItem>
+  <TabItem value="ABSTRACT" label="ABSTRACT">
+
+# FINDING –t- AND –tIr- AFFIXES IN VERBS OF [ -t- + -tIr-] STRUCTURE AND USING –t- AS ADDITION VOICE  
+
+## ABSTRACT
 It is accepted ı, i, u, ü vowels and y, n consanats are accepted as affixes which take part in Turkish syntax with phonological function. Some resarchers also add a, evowels and s, ş consanants to these affixes. It isn’t mentioned about t which is used between verb themes and causative affix. Whereas it is seen that it is used directly with phonological function in some examples and it [Dergideki Sayfa: 160]  pretends to use with phonological function because its gramatical function couldn’t be perceived in some examples. In this article it will be interrogated the functions of –t- and –tIr- in verbs with structure of –t- + -tIr- which has been listed from Turkish Dictionary and it will be worked to see that –t- is an additional voice in some conditions.  
 
-Key Words: Auxiliary voice, verb, causative, factitive, kılışlama.  
+:::note Key Words
+Auxiliary voice, verb, causative, factitive, kılışlama.  
+:::
+
+  </TabItem>
+</Tabs>
+
+
 
 Dilbilgisi çalışmalarında ilave sesler, “Belirli durumlarda kelime kök veya gövdelerine eklerin bağlanması sırasında kullanılan ses.” (Korkmaz 2003a: 35) şeklinde tanımlanmakta; bağlayıcı ünlü ve bağlayıcı ünsüz olarak da kendi içinde iki kısma ayrılarak (Korkmaz 2003a: 35) incelenmektedir.  
 
 Bu kategoriyi karşılayan terimler araştırıcılara göre değişmekte ve yer yer ele alış bakımından farklılıklar görülmektedir.  
 
-Muharrem Ergin‟in bu kategori için kullandığı terim, yardımcı ses‟tir. Yardımcı sesler, yardımcı vokaller (ı, i, u, ü) ve yardımcı konsonantlar (y, n) adlarıyla iki kısımda incelenmektedir (Ergin 2000: 215-217).  
+Muharrem Ergin'in bu kategori için kullandığı terim, "**yardımcı ses**"tir. Yardımcı sesler, yardımcı vokaller (ı, i, u, ü) ve yardımcı konsonantlar (y, n) adlarıyla iki kısımda incelenmektedir (Ergin 2000: 215-217).  
 
 Kimi lise ders ve üniversiteye hazırlık kitapları ile üniversiteler için hazırlanmış Türk dili kitaplarında bu seslere a, e ünlüleri ile s ve ş ünsüzlerinin de ilave edildiği görülmektedir.  
 
@@ -43,16 +69,18 @@ Genel kabul görmüş ı, i, u, ü, y ve n sesleri yanında a, e, s ve ş‟nin 
 
 Bu sorgulama, Türkçe Sözlük(2005)‟teki -t- + -tIr- ses ve biçimbirimlerini içeren fiiller esas alınarak yapılacaktır; ki, sözlükte maddebaşı olarak bu şekilde var olan fiiller şunlardır:
 
-açıklattırmak ayırttırmak bayılttırmak boşalttırmak  
-boşattırmak çıkarttırmak hecelettirmek hesaplattırmak  
-kapattırmak kaşelettirmek kısalttırmak koparttırmak  
-okutturmak parçalattırmak  
+||||
+|-|-|-|-|
+| açıklattırmak | ayırttırmak | bayılttırmak | boşalttırmak |  
+| boşattırmak | çıkarttırmak | hecelettirmek | hesaplattırmak |  
+| kapattırmak | kaşelettirmek | kısalttırmak | koparttırmak | 
+| okutturmak | parçalattırmak ||  
 
 Bu fiiller, çatı (yüklemin kendine bağlı öğelerin anlamsal ve sözdizimsel yapılarını belirleme kategorisi) ve görüngü (Delice 2009: 495- 509) (yüklem olan fiilin gövde anlamında var olan veya ek yardımıyla sonradan eklenebilen bir varlığa bağlı olma veya olmama -yani, oluş veya [Dergideki Sayfa: 162] kılış fiillerinin birbiri ile değişimini sağlama- kategorisi) kavramlarını esas alarak şu şekilde sınıflandırılacaktır.  
 
 Bu fiilleri örneklendirmek için kullanılan cümleler, -varsaTürkçe Sözlük (2005)‟ten Türkçe Sözlük‟te kaynak gösterildiği şekliyle alınacaktır. Türkçe Sözlük‟ten örnek bulunamazsa kullanıma uygun örnek bir cümle kurgulanacaktır.  
 
-1. İlave ses + ettirgenlik yapısı  
+## 1. İlave ses + ettirgenlik yapısı  
 Maddebaşı olan –t- + -tIr- yapılı fiiler içinde bu başlığa uyacak üç örnek karşımıza çıkmaktadır.  
 
 Bu örneklerde kullanılan -t- nin sözdizimsel hiçbir işlevi yoktur; zira, ettirgenlik veya oldurganlık ekinin kullanılmadığı örneklerde bu ses ortaya çıkmamaktadır. Bu iki sözcükte ortaya çıkış nedeni sadece fiil tabanı ile ettirgenlik veya oldurganlık ekini birleştirmek -yani, kaynaştırmak-tır.  
@@ -81,7 +109,7 @@ Bu fiilde -t-, “Ben bu adamı biliyorum, dedi Süleyman Kahya. On beş yıldı
 
 Bu üç örneğin durumu da Türkçede yardımcı ses kategorisine bir de -t- ünsüzünün ilave edilmesi gerektiğini göstermektedir. Yukarıda da değinildiği gibi bu sorgulama Türkçe Sözlük esaslı yapılmıştır. Değişik eserlerden yapılacak taramalar burada listelenen fiil sayısını artırabilir.  
 
-2. Ettirgenlik + ettirgenlik (katmerli ettirgenlik) yapısı  
+## 2. Ettirgenlik + ettirgenlik (katmerli ettirgenlik) yapısı  
 
 Katmerli ettirgenlikte ikinci ettirgenlik ekinin kullanım amacı yapan özneyi ikinci kişi üzerinden üçüncü kişi üzerine aktarmaktır. Katmerli ettirgenlik kullanılmış olan yüklemlerin kurduğu cümlelerde -doğal olarak- iki tane yaptıran özne olacaktır; çünkü, ikinci ettirgenlik eki, yaptıranı üçüncü kişiye taşımaktadır.  
 
@@ -125,7 +153,7 @@ parçalattırmak
 
 “Hep işi yanlış yapan adamlar yüzünden bunlar. Halbuki kaçırdın işte uçağı git hemen tamirciye parçalattır yok et. Yakalanma.”  
 
-3. Kılışlama + ettirgenlik yapısı  
+## 3. Kılışlama + ettirgenlik yapısı  
 
 Bu yapıda kullanılan -t- oluş fiilinin kılış fiili olmasını sağlamaktadır. Artık, -t- yi almış olan fiil kılış fiili olduğu için çatı eklerinden herhangi birini alabilecek duruma gelmiştir.
 Bunun sonucu olarak da fiilin ifade ettiği anlamı bir başkasına
@@ -147,7 +175,7 @@ kısalttırmak
 
 [Dergideki Sayfa: 165]  
 
-Sonuç  
+## Sonuç  
 
 • Bazı fiillerde fiil tabanı ile ettirgenlik eki arasına kaynaştırıcı olarak -t- ilave sesi girebilmektedir.  
 
@@ -157,7 +185,7 @@ Bu durum fiili genişleten diğer eklerle fiil tabanı arasında da “İnsan ke
 
 • Bazı fiillerde -tIr- ettirgenlik veya oldurganlık ekinden önce kullanılan -t- kılışlama işlevi görebilmektedir.  
 
-KAYNAKÇA  
+## KAYNAKÇA  
 
 BANGUOĞLU T. (1986) Türkçenin Grameri. TDK Yay., Ankara.  
 DELİCE, H. İ. (2009) “Çatı Eklerinin Bilinmeyen Bir İşlevi”. ICANAS 38, (Uluslararası Asya ve Kuzey Afrika Çalışmaları Kongresi), Ankara.  

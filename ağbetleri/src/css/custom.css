@@ -5,6 +5,13 @@
  */
 
 /* You can override the default Infima variables here. */
+@import url('https://fonts.googleapis.com/css2?family=IM+Fell+DW+Pica&display=swap');
+
+@font-face {
+  font-family: ifdp;
+  src: url(../fonts/ifdp/IMFePIrm28P.ttf);
+}
+
 :root {
   --ifm-color-primary: #2e8555;
   --ifm-color-primary-dark: #29784c;
@@ -15,6 +22,7 @@
   --ifm-color-primary-lightest: #3cad6e;
   --ifm-code-font-size: 95%;
   --docusaurus-highlighted-code-line-bg: rgba(0, 0, 0, 0.1);
+  --ifm-font-family-base: ifdp, serif;
 }
 
 /* For readability concerns, you should choose a lighter palette in dark mode. */
@@ -253,10 +261,11 @@ th {
   flex-wrap: wrap;
   align-items: flex-start;
   flex-direction: column;
+  font-size: 14px;
 }
 
 .kitap > .içerik h2{
-  font-size: 12pt !important; 
+  font-size: 20px !important; 
   margin:0;
 }
 .kitap > a:first-child{
@@ -271,3 +280,6 @@ th {
   font-weight: 600;
 }
 
+article{
+  font-size: 20px;
+}
