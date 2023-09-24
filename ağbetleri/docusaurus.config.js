@@ -31,7 +31,7 @@ const config = {
   // to replace "en" with "zh-Hans".
   i18n: {
     defaultLocale: 'tr',
-    locales: ['tr'],
+    locales: ['tr', 'az', 'kk', 'ky', 'tk', 'ug', 'gag', 'en',],
   },
 
   presets: [
@@ -101,6 +101,10 @@ const config = {
           {
             href: 'https://discord.gg/yjhvZVzEK8',
             label: 'Discord',
+            position: 'right',
+          },
+          {
+            type: 'localeDropdown',
             position: 'right',
           },
         ],
