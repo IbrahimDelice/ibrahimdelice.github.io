@@ -23,7 +23,7 @@ import TabItem from '@theme/TabItem';
 
 
 ## ÖZET
-Türkçe sözdiziminde sesbilgisel işlevle yer alan sesler olarak ı, i, u, ü ünlüleri ile y, n ünsüzleri kabul edilir. Kimi araştırıcılar bunlara a, e ünlüleri ile s, ş ünsüzlerini de ilave etmektedir. Bu sesler arasında fiil gövdeleri ile ettirgenlik eki arasında kullanılan -t- zikredilmemektedir. Oysa, bazı örneklerde doğrudan sesbilgisel işlevle bazı örneklerde de dilbilgisel işlevi sezilemediğinden sesbilgisel işlevde imiş gibi kullanıldığı görülmektedir. Bu yazıda Türkçe Sözlük’ten (10. baskı, 2005) listelenen -t- + -tIr yapılı fiillerde -t- ve -tIr- ın işlevleri   orgulanacak ve -t- nin bazı durumlarda ilave ses olduğu gösterilmeye çalışılacaktır. 
+Türkçe sözdiziminde sesbilgisel işlevle yer alan sesler olarak `ı`, `i`, `u`, `ü` ünlüleri ile `y`, `n` ünsüzleri kabul edilir. Kimi araştırıcılar bunlara `a`, `e` ünlüleri ile `s`, `ş` ünsüzlerini de ilave etmektedir. Bu sesler arasında fiil gövdeleri ile ettirgenlik eki arasında kullanılan `-t-` zikredilmemektedir. Oysa, bazı örneklerde doğrudan sesbilgisel işlevle bazı örneklerde de dilbilgisel işlevi sezilemediğinden sesbilgisel işlevde imiş gibi kullanıldığı görülmektedir. Bu yazıda Türkçe Sözlük’ten (10. baskı, 2005) listelenen `-t-` + `-tIr-` yapılı fiillerde `-t-` ve `-tIr-` ın işlevleri   orgulanacak ve `-t-` nin bazı durumlarda ilave ses olduğu gösterilmeye çalışılacaktır. 
 
 :::note Anahtar Kelimeler
 Yardımcı ses, fiil, ettirgenlik, oldurganlık, kılışlama.
@@ -34,7 +34,7 @@ Yardımcı ses, fiil, ettirgenlik, oldurganlık, kılışlama.
 # FINDING –t- AND –tIr- AFFIXES IN VERBS OF [ -t- + -tIr-] STRUCTURE AND USING –t- AS ADDITION VOICE  
 
 ## ABSTRACT
-It is accepted ı, i, u, ü vowels and y, n consanats are accepted as affixes which take part in Turkish syntax with phonological function. Some resarchers also add a, evowels and s, ş consanants to these affixes. It isn’t mentioned about t which is used between verb themes and causative affix. Whereas it is seen that it is used directly with phonological function in some examples and it [Dergideki Sayfa: 160]  pretends to use with phonological function because its gramatical function couldn’t be perceived in some examples. In this article it will be interrogated the functions of –t- and –tIr- in verbs with structure of –t- + -tIr- which has been listed from Turkish Dictionary and it will be worked to see that –t- is an additional voice in some conditions.  
+It is accepted `ı`, `i`, `u`, `ü` vowels and `y`, `n` consanats are accepted as affixes which take part in Turkish syntax with phonological function. Some resarchers also add `a`, evowels and `s`, `ş` consanants to these affixes. It isn’t mentioned about t which is used between verb themes and causative affix. Whereas it is seen that it is used directly with phonological function in some examples and it [Dergideki Sayfa: 160]  pretends to use with phonological function because its gramatical function couldn’t be perceived in some examples. In this article it will be interrogated the functions of `–t-` and `–tIr-` in verbs with structure of `–t-` + `-tIr-` which has been listed from Turkish Dictionary and it will be worked to see that `–t-` is an additional voice in some conditions.  
 
 :::note Key Words
 Auxiliary voice, verb, causative, factitive, kılışlama.  
