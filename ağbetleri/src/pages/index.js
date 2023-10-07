@@ -65,7 +65,7 @@ function Dua() {
           <h1 className="left">Dua</h1>
 
           <p>
-            Rahmân ve rahîm olan Allah’ın adıyla.
+            Rahmân ve rahîm olan Allah’ın adıyla:
           </p>
           <p>
             Ey Rabb’imiz, kalbime genişlik ver; işimi kolaylaştır!
@@ -80,23 +80,45 @@ function Dua() {
             arasına kat! Eğer beni bağışlamaz ve bana acımazsan, şüphesiz ziyana
             uğrayanlardan olurum.
           </p>
-          <p>
-            Ey Rabbimiz, unutursak veya hataya düşersek bizi sorumlu tutma.
-          </p>
-          <p>
-            Ey Rabbimiz, bizden öncekilere yüklediğin gibi bize de ağır bir yük yükleme. Bize gücümüzün yetmediği işler de yükleme! Bizi affet; bizi bağışla, bize acı! Sen bağışlayanların en iyisisin! Sen bizim mevlâmızsın; kâfirler topluluğuna karşı bize yardım et!
-          </p>
-          <p>
-            Ey Rabbimiz, bizi hidayete erdirdikten sonra kalplerimizi eğriltme. Bize katından bir rahmet bahşet; şüphesiz sen çok bahşedensin.
-          </p>
-          <p>
-            Ey Rabbimiz, bizi zalimler topluluğu ile beraber bulundurma! Bize, bu dünyada da ahirette de iyilik yaz; şüphesiz sana döneceğiz!
-          </p>
-          <p>
-            Ey Rabbimiz, biz yalnız sana tevekkül ettik, bizi zalimler topluluğunun baskı ve şiddetine maruz bırakma!
-            </p>
-            <p>
-            Ey Rabbimiz, şüphesiz senden hakkında bilgim olmayan şeyi istemekten sana sığınırım. Başarım ancak senin yardımınladır. Ben yalnızca sana dayanır ve ancak yine sana döneceğim!</p><p>Ey Rabbimiz, beni ve soyumdan gelecekleri namazı devamlı kılanlardan eyle!</p><p>Ey Rabbimiz, hesap olunacağı gün beni, ana babamı ve müminleri bağışla! Küçüklüğümde onlar beni nasıl yetiştirmişlerse, şimdi de sen onlara rahmet et!</p><p>Ey Rabbimiz, gireceğim yere dürüstlükle girmemi; çıkacağım yerden de dürüstlükle çıkmamı sağla. Bana tarafından, hakkıyla yardım edici bir kuvvet ver!</p><p>Ey Rabbimiz, bize katından bir rahmet ver ve içinde bulunduğumuz şu durumda bize kurtuluş ve doğruluğa ulaşmayı kolaylaştır. Rabbim beni, bundan daha doğru olana ulaştırmanı umarım!</p><p>Ey Rabbimiz, ilmimi artır; cahillerden olmaktan sana sığınırım!</p><p>Ey Rabbimiz, beni tek başıma bırakma. Sen varislerin en hayırlısısın.</p><p>Ey Rabbimiz, beni yalanlamalarına karşı bana yardım et!</p><p>Ey Rabbimiz, beni bereketli bir yere kondur; sen konuk edenlerin en hayırlısısın!</p><p>Ey Rabbimiz, şeytanların vesveselerinden sana sığınırım. Onların benim yanımda bulunmalarından da sana sığınırım!</p><p>Ey Rabbimiz, biz inandık; bizi bağışla! Bize merhamet et; sen merhamet edenlerin en hayırlısısın!</p><p>Ey Rabbimiz, bizden cehennem azabını uzaklaştır; gerçekten onun azabı sürekli bir helaktır!</p><p>Ey Rabbimiz, bize gözümüzü aydınlatacak eşler ve zürriyetler bağışla ve bizi takvâ sahiplerine önder kıl!</p><p>Ey Rabbimiz, bana bir hikmet bahşet ve beni salih kimseler arasına kat. Sonra gelecekler arasında beni doğrulukla anılanlardan kıl! Beni Naîm cennetinin varislerinden eyle!</p><p>Ey Rabbimiz, beni, ana babama ve bana verdiğin nimetlere şükretmeye; razı olacağın salih ameller işlemeye sevk et ve beni rahmetinle salih kullarının arasına kat! Benim için de zürriyetim için de iyiliği devam ettir. Ben sana döneceğim ve elbette ki, ben Müslümanlardanım.</p><p>Ey Rabbimiz, doğrusu kendime zulmettim; beni bağışla!</p><p>Ey Rabbimiz, beni zalimler güruhundan kurtar!</p><p>Ey Rabbimiz, bana göndereceğin her hayra muhtacım.</p><p>Ey Rabbimiz, bana sâlih çocuklar ihsan et!</p><p>Ey Rabbimiz, senin rahmet ve ilmin her şeyi kuşatmıştır. O hâlde tevbe eden ve senin yoluna gidenleri bağışla; onları cehennem azabından koru!</p><p>Ey Rabbimiz, onları da, onların atalarından, zevcelerinden, nesillerinden iyi olanları da kendilerine vâdettiğin Adn cennetlerine koy! Şüphesiz azîz ve hakîm olan sensin!</p><p>Ey Rabbimiz, bizi ve bizden önce gelip geçmiş imanlı kardeşlerimizi bağışla; kalplerimizde, iman edenlere karşı hiçbir kin bırakma! </p><p>Ey Rabbimiz, şüphesiz ki sen çok şefkatli, çok merhametlisin!</p><p>Ey Rabbimiz, ancak sana dayandık; sana yöneldik. Dönüş de ancak sanadır. </p><p>Ey Rabbimiz, bizi, inkâr edenler için deneme konusu kılma; bizi bağışla! </p><p>Ey Rabbimiz, yegâne galip ve hikmet sahibi, ancak sensin.</p><p>Ey Rabbimiz! Nûrumuzu bizim için tamamla; bizi bağışla; çünkü sen, her şeye kadirsin!</p><p>Ey Rabbimiz, beni, ana babamı, iman etmiş olarak evime girenleri, iman eden erkekleri ve iman eden kadınları bağışla; zalimlerin de ancak helâkini arttır!</p><p>Ey Rabbimiz, bana katından temiz bir nesil bahşet. Şüphesiz sen duayı hakkıyla işitensin.</p><p>Ey Rabbimiz, biz kendimize zulmettik; eğer bizi bağışlamaz ve bize acımazsan mutlaka ziyân edenlerden oluruz!</p><p>Ey Rabbimiz, bizi sana boyun eğenlerden kıl; neslimizden de sana itaat eden bir ümmet çıkar! Bize ibadet usullerimizi göster; tevbemizi kabul et; zira, tevbeleri çokça kabul eden, çok merhametli olan ancak sensin!</p><p>Hamd âlemlerin Rabbi olan sana mahsustur. Sen rahmân ve rahîmsin; ceza gününün sahibisin! Ancak sana kulluk eder ve ancak senden medet umarız. Bize doğru yolu göster; kendilerine lütuf ve ikramda bulunduğun kimselerin yolunu; gazaba uğramışların ve sapmışların yolunu değil!</p><p>Ey Rabbimiz, dualarımı kabul eyle!</p><p>Amin.</p>
+          <p>Ey Rabbimiz, unutursak veya hataya düşersek bizi sorumlu tutma.</p>
+          <p>Ey Rabbimiz, bizden öncekilere yüklediğin gibi bize de ağır bir yük yükleme. Bize gücümüzün yetmediği işler de yükleme! Bizi affet; bizi bağışla, bize acı! Sen bağışlayanların en iyisisin! Sen bizim mevlâmızsın; kâfirler topluluğuna karşı bize yardım et!</p>
+          <p>Ey Rabbimiz, bizi hidayete erdirdikten sonra kalplerimizi eğriltme. Bize katından bir rahmet bahşet; şüphesiz sen çok bahşedensin.</p>
+          <p>Ey Rabbimiz, bizi zalimler topluluğu ile beraber bulundurma! Bize, bu dünyada da ahirette de iyilik yaz; şüphesiz sana döneceğiz!</p>
+          <p>Ey Rabbimiz, biz yalnız sana tevekkül ettik, bizi zalimler topluluğunun baskı ve şiddetine maruz bırakma!</p>
+          <p>Ey Rabbimiz, şüphesiz senden hakkında bilgim olmayan şeyi istemekten sana sığınırım. Başarım ancak senin yardımınladır. Ben yalnızca sana dayanır ve ancak yine sana döneceğim!</p>
+          <p>Ey Rabbimiz, beni ve soyumdan gelecekleri namazı devamlı kılanlardan eyle!</p>
+          <p>Ey Rabbimiz, hesap olunacağı gün beni, ana babamı ve müminleri bağışla! Küçüklüğümde onlar beni nasıl yetiştirmişlerse, şimdi de sen onlara rahmet et!</p>
+          <p>Ey Rabbimiz, gireceğim yere dürüstlükle girmemi; çıkacağım yerden de dürüstlükle çıkmamı sağla. Bana tarafından, hakkıyla yardım edici bir kuvvet ver!</p>
+          <p>Ey Rabbimiz, bize katından bir rahmet ver ve içinde bulunduğumuz şu durumda bize kurtuluş ve doğruluğa ulaşmayı kolaylaştır. Rabbim beni, bundan daha doğru olana ulaştırmanı umarım!</p>
+          <p>Ey Rabbimiz, ilmimi artır; cahillerden olmaktan sana sığınırım!</p>
+          <p>Ey Rabbimiz, beni tek başıma bırakma. Sen varislerin en hayırlısısın.</p>
+          <p>Ey Rabbimiz, beni yalanlamalarına karşı bana yardım et!</p>
+          <p>Ey Rabbimiz, beni bereketli bir yere kondur; sen konuk edenlerin en hayırlısısın!</p>
+          <p>Ey Rabbimiz, şeytanların vesveselerinden sana sığınırım. Onların benim yanımda bulunmalarından da sana sığınırım!</p>
+          <p>Ey Rabbimiz, biz inandık; bizi bağışla! Bize merhamet et; sen merhamet edenlerin en hayırlısısın!</p>
+          <p>Ey Rabbimiz, bizden cehennem azabını uzaklaştır; gerçekten onun azabı sürekli bir helaktır!</p>
+          <p>Ey Rabbimiz, bize gözümüzü aydınlatacak eşler ve zürriyetler bağışla ve bizi takvâ sahiplerine önder kıl!</p>
+          <p>Ey Rabbimiz, bana bir hikmet bahşet ve beni salih kimseler arasına kat. Sonra gelecekler arasında beni doğrulukla anılanlardan kıl! Beni Naîm cennetinin varislerinden eyle!</p>
+          <p>Ey Rabbimiz, beni, ana babama ve bana verdiğin nimetlere şükretmeye; razı olacağın salih ameller işlemeye sevk et ve beni rahmetinle salih kullarının arasına kat! Benim için de zürriyetim için de iyiliği devam ettir. Ben sana döneceğim ve elbette ki, ben Müslümanlardanım.</p>
+          <p>Ey Rabbimiz, doğrusu kendime zulmettim; beni bağışla!</p>
+          <p>Ey Rabbimiz, beni zalimler güruhundan kurtar!</p>
+          <p>Ey Rabbimiz, bana göndereceğin her hayra muhtacım.</p>
+          <p>Ey Rabbimiz, bana sâlih çocuklar ihsan et!</p>
+          <p>Ey Rabbimiz, senin rahmet ve ilmin her şeyi kuşatmıştır. O hâlde tevbe eden ve senin yoluna gidenleri bağışla; onları cehennem azabından koru!</p>
+          <p>Ey Rabbimiz, onları da, onların atalarından, zevcelerinden, nesillerinden iyi olanları da kendilerine vâdettiğin Adn cennetlerine koy! Şüphesiz azîz ve hakîm olan sensin!</p>
+          <p>Ey Rabbimiz, bizi ve bizden önce gelip geçmiş imanlı kardeşlerimizi bağışla; kalplerimizde, iman edenlere karşı hiçbir kin bırakma! </p>
+          <p>Ey Rabbimiz, şüphesiz ki sen çok şefkatli, çok merhametlisin!</p>
+          <p>Ey Rabbimiz, ancak sana dayandık; sana yöneldik. Dönüş de ancak sanadır. </p>
+          <p>Ey Rabbimiz, bizi, inkâr edenler için deneme konusu kılma; bizi bağışla! </p>
+          <p>Ey Rabbimiz, yegâne galip ve hikmet sahibi, ancak sensin.</p>
+          <p>Ey Rabbimiz! Nûrumuzu bizim için tamamla; bizi bağışla; çünkü sen, her şeye kadirsin!</p>
+          <p>Ey Rabbimiz, beni, ana babamı, iman etmiş olarak evime girenleri, iman eden erkekleri ve iman eden kadınları bağışla; zalimlerin de ancak helâkini arttır!</p>
+          <p>Ey Rabbimiz, bana katından temiz bir nesil bahşet. Şüphesiz sen duayı hakkıyla işitensin.</p>
+          <p>Ey Rabbimiz, biz kendimize zulmettik; eğer bizi bağışlamaz ve bize acımazsan mutlaka ziyân edenlerden oluruz!</p>
+          <p>Ey Rabbimiz, bizi sana boyun eğenlerden kıl; neslimizden de sana itaat eden bir ümmet çıkar! Bize ibadet usullerimizi göster; tevbemizi kabul et; zira, tevbeleri çokça kabul eden, çok merhametli olan ancak sensin!</p>
+          <p>Hamd âlemlerin Rabbi olan sana mahsustur. Sen rahmân ve rahîmsin; ceza gününün sahibisin! Ancak sana kulluk eder ve ancak senden medet umarız. Bize doğru yolu göster; kendilerine lütuf ve ikramda bulunduğun kimselerin yolunu; gazaba uğramışların ve sapmışların yolunu değil!</p>
+          <p>Ey Rabbimiz, dualarımı kabul eyle!</p>
+          <p>Amin.</p>
 
         </div>
       </div>
