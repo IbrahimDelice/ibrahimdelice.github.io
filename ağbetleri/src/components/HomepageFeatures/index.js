@@ -5,8 +5,7 @@ import styles from './styles.module.css';
 const FeatureList = [
   {
     title: 'Bildirilerim',
-    Svg: require('@site/static/img/bildiri.svg').default,
-    url: 'bildiriler',
+    Svg: require('@site/static/img/undraw_docusaurus_mountain.svg').default,
     description: (
       <>
         ...
@@ -15,8 +14,7 @@ const FeatureList = [
   },
   {
     title: 'Makalelerim',
-    Svg: require('@site/static/img/makale.svg').default,
-    url: 'makaleler',
+    Svg: require('@site/static/img/undraw_docusaurus_tree.svg').default,
     description: (
       <>
         ...
@@ -25,8 +23,7 @@ const FeatureList = [
   },
   {
     title: 'Kitaplarım',
-    Svg: require('@site/static/img/kitaplar.svg').default,
-    url: 'kitaplar',
+    Svg: require('@site/static/img/undraw_docusaurus_react.svg').default,
     description: (
       <>
         ...
@@ -36,7 +33,6 @@ const FeatureList = [
   {
     title: 'Şiirlerim',
     Svg: require('@site/static/img/undraw_docusaurus_react.svg').default,
-    url: 'şiirler',
     description: (
       <>
         ...
@@ -45,10 +41,9 @@ const FeatureList = [
   },
 ];
 
-function Feature({Svg, title, description, url}) {
+function Feature({Svg, title, description}) {
   return (
-    <div className={clsx('col col--3')}>
-      <a href={url}>
+    <div className={clsx('col col--4')}>
       <div className="text--center">
         <Svg className={styles.featureSvg} role="img" />
       </div>
@@ -56,7 +51,6 @@ function Feature({Svg, title, description, url}) {
         <h3>{title}</h3>
         <p>{description}</p>
       </div>
-      </a>
     </div>
   );
 }
