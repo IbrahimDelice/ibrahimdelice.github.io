@@ -137,6 +137,10 @@ const config = {
                 label: 'Kitaplar',
               },
               {
+                to: '/kitap_Bolumleri/',    // ./docs-api/Intro.md
+                label: 'Kitap Bölümleri',
+              },
+              {
                 label: 'Günce',
                 to: '/blog',
               },
