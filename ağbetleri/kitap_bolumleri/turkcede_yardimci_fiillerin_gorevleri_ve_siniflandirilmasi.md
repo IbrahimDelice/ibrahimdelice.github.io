@@ -3,11 +3,14 @@ slug: -t--+--tır--yapısındaki-fiillerde--t--ile--tır--eklerinin-bulunuşu-ve
 sidebar_position: 1
 ---
 
-TÜRKÇEDE YARDIMCI FİİLLERİN GÖREVLERİ VE SINIFLANDIRILMASI
-Hacı İbrahim DELİCE
-Giriş
+# TÜRKÇEDE YARDIMCI FİİLLERİN GÖREVLERİ VE SINIFLANDIRILMASI
+
+## Giriş
+
 Kelimeler, birer temsildir ve her biri bir anlamı temsil eder. Kelimeler için “Kavranmış ve öğrenilmiş anlamın sonucudur.” da denebilir. Bu durumda, insan zihninin doğası, “Kelimeler kaç değişik varoluşa sahiptir?” sorusunu kendiliğinden ortaya çıkarmaktadır. Bu soru, fazla detaylandırılmadan şöyle cevaplanabilir:
+
 Kelime türü olarak “isim” denilen temsilcilerin varoluşu, dünyadaki şeyler -somut isim- ve zihnin işletimi sonucunda sınırları belirlenmiş olan ortak kabuller -soyut isim-dir. Somut ve soyut kavramların temsilcisi olan isimleri temsil eden zamirler de ileri düzey bir temsile sahip olması açısından burada zikredilebilir. Yani, zamirler için temsilin temsili tabiri kullanılabilir. Sıfat ve zarf denilen sözcükler de isimlerin cümledeki konumlarının adı olduğuna göre isim, zamir, sıfat ve zarf terimleri üzerinden “doğa” ve “insan” varoluşuna ulaşılabilir. Yani, bu tür kelimeler, ya “doğa”daki şeylerin temsili veya “insan” zihninin ayırımını yapabildiği kavramların temsili olarak ortaya çıkmaktadır; ki, bunlara “doğa” ve “insan” kelimeleri denebilir. Örneğin, “ağaç” kelimesinin temsil edileni dünyaya -doğaya- ait iken “iyi” kelimesinin temsil edileni doğrudan insan dünyasına ait olacaktır.
+
 “Fiil” denilen kelime türünün varoluşu ise hem “doğa” hem “canlılar” hem de “dünya ve canlılar” olmak üzere üç zemine yaslandırılarak cevaplandırılabilir. Örneğin, “esmek” fiilinin temsil edileni doğaya, “konuşmak” fiilinin temsil edileni canlıya ait iken “yürümek” fiilinin temsil edileni hem doğa hem de canlıya aittir.
 Somut ve soyut isimlerin varoluşu ile eylemlerin adı olan fiillerin varoluşu bazen farklılaşmasına rağmen “doğa”, “canlılar” ve doğa ve canlılar” olmak üzere üç zemine yaslandırılabilir. Bu üç zeminde temsil edilen anlamların hepsine rahatlıkla “sözlüksel anlam” denebilir.
 İsim ve isim soylu kelimeler ile fiillerin nedenli veya nedensiz olarak ortaya çıkması ve birbirinden öznitelikleri ile ayırımının yapılabilmesi için cümleye pek ihtiyaç duymadıkları ortadadır; çünkü, temsil ettikleri anlamlar kendilerinin dışında bulunmaktadır. Nitekim, kelimeleri kendi içinde ilk tasnif eden Aristo’ya göre de “ad (onoma) ve eylem (rhéma)” olarak adlandırdığı bu kelimeler, kendiliğinden anlam taşımaktadır ve düşünme işlemlerinde bağlantı sağlayan öteki ögelerden (syndesmoi) farklı sınıflandırmaktadır (Aksan, 2000: 18). 
