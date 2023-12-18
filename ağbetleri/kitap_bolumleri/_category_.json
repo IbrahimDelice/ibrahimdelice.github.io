@@ -1,8 +1,8 @@
 {
-  "label": "KiKitap_Bolumleri",
+  "label": "kitap_bolumleri",
   "position": 2,
   "link": {
     "type": "generated-index",
-    "description": "Prof. Dr. Hacı İbrahim DELİCE'nin yayınları."
+    "description": "Prof. Dr. Hacı İbrahim DELİCE'nin Kitap Bölümleri."
   }
 }
