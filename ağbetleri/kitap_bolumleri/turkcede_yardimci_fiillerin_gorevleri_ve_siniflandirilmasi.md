@@ -12,181 +12,352 @@ Kelimeler, birer temsildir ve her biri bir anlamı temsil eder. Kelimeler için 
 Kelime türü olarak “isim” denilen temsilcilerin varoluşu, dünyadaki şeyler -somut isim- ve zihnin işletimi sonucunda sınırları belirlenmiş olan ortak kabuller -soyut isim-dir. Somut ve soyut kavramların temsilcisi olan isimleri temsil eden zamirler de ileri düzey bir temsile sahip olması açısından burada zikredilebilir. Yani, zamirler için temsilin temsili tabiri kullanılabilir. Sıfat ve zarf denilen sözcükler de isimlerin cümledeki konumlarının adı olduğuna göre isim, zamir, sıfat ve zarf terimleri üzerinden “doğa” ve “insan” varoluşuna ulaşılabilir. Yani, bu tür kelimeler, ya “doğa”daki şeylerin temsili veya “insan” zihninin ayırımını yapabildiği kavramların temsili olarak ortaya çıkmaktadır; ki, bunlara “doğa” ve “insan” kelimeleri denebilir. Örneğin, “ağaç” kelimesinin temsil edileni dünyaya -doğaya- ait iken “iyi” kelimesinin temsil edileni doğrudan insan dünyasına ait olacaktır.
 
 “Fiil” denilen kelime türünün varoluşu ise hem “doğa” hem “canlılar” hem de “dünya ve canlılar” olmak üzere üç zemine yaslandırılarak cevaplandırılabilir. Örneğin, “esmek” fiilinin temsil edileni doğaya, “konuşmak” fiilinin temsil edileni canlıya ait iken “yürümek” fiilinin temsil edileni hem doğa hem de canlıya aittir.
+
 Somut ve soyut isimlerin varoluşu ile eylemlerin adı olan fiillerin varoluşu bazen farklılaşmasına rağmen “doğa”, “canlılar” ve doğa ve canlılar” olmak üzere üç zemine yaslandırılabilir. Bu üç zeminde temsil edilen anlamların hepsine rahatlıkla “sözlüksel anlam” denebilir.
+
 İsim ve isim soylu kelimeler ile fiillerin nedenli veya nedensiz olarak ortaya çıkması ve birbirinden öznitelikleri ile ayırımının yapılabilmesi için cümleye pek ihtiyaç duymadıkları ortadadır; çünkü, temsil ettikleri anlamlar kendilerinin dışında bulunmaktadır. Nitekim, kelimeleri kendi içinde ilk tasnif eden Aristo’ya göre de “ad (onoma) ve eylem (rhéma)” olarak adlandırdığı bu kelimeler, kendiliğinden anlam taşımaktadır ve düşünme işlemlerinde bağlantı sağlayan öteki ögelerden (syndesmoi) farklı sınıflandırmaktadır (Aksan, 2000: 18). 
+
 Kelimelerin varoluşunun zeminlerinden biri de isim ve fiillerin ortaya çıkışı ile oluşan “dil” zeminidir. Bir dilin temeli, “şey”leri kelimeleştirmesi ise gelişimi de bu kelimeleri düşünme aracı olarak kullanmasıdır. Yani, isim ve fiilleri cümleleştirmeye uygun hâle getirmesidir. Bunun için Aristo’nun “syndesmoi” terimiyle isimlendirdiği bağlantı kelimelerini oluşturması gerekmektedir (Aksan, 2000: 18).
+
 Bir dilin gelişiminin ikinci önemli evresini oluşturan ve adına “dil doğası” denebilecek olan dilin kendi evreni bağlamında Türkçeye bakıldığında nedensiz adlandırmalarının neredeyse hiç olmadığı görülmektedir. Bu durum, isim ve fiilleri cümle bağlamıyla birleştirmek için büyük oranda Türkçenin sistemini oluşturan ekleri kullanmış olmasıyla izah edilebilir. Mesela, “Ahmet okula gelip kantine gitti.” cümlelerini birbirine bağlamak için “ve” bağlacı gibi doğrudan buradaki bağlama anlamını ifade eden ve nedensiz yapılmış bir kelime değil; de, kelime yerine [-(I)p] eki ile kullanılmıştır. Yine, “Ahmet hasta olduğundan gelemedi.” cümlesinde de [-Dan] eki, hem “için” edatı yerine hem de “Ahmet gelemedi; çünkü, hastaydı.” cümlelerini birbirine bağlayan “çünkü” bağlacı yerine kullanılmıştır.
+
 Bu bağlamda, Türkçenin bağlantı -dilbilgisi- kelimeleri, sözdizimi bağlamı da göz önünde bulundurularak dört başlıkta sınıflandırılabilir: 1. “İsimlerin isim anlamıyla cümlelerin kurucu ögesi -yüklem- olmasını sağlamak”, “isimlerin fiilleştirilerek cümlelerin kurucu ögesi olmasını sağlamak” ve “cümlelerin kurucu ögesi olan fiillerin kip anlamlarıyla genişletilmesini sağlamak” anlamlarını temsil etmek amacıyla kullanılan “yardımcı fiil”. 2. “İsim ile isim veya isimle fiil anlamlı kelimeler -yüklem/yüklemsi/fiilimsi- arasında zaman, sebep, vasıta, beraberlik, benzetme gibi değişik anlam ilgileri kurmak” anlamlarını temsil eden “edat”. 3. “Çeşitli düzeylerde eş yapı ve eş görevde dil birliklerini ortaklık, sebep, sonuç, istisna, zaman sıralaması gibi anlamlarla birbirine bağlamak” anlamlarını temsil eden “bağlaç”. 4. “Kelime, cümle ögesi ve cümlelerin anlamlarını sitem, uyarı, ihtimal gibi anlamlar yükleyerek bu anlamlarla onları kuvvetlendirmek” anlamlarını temsil eden “pekiştireç”.
+
 Yardımcı fiil ve edatların neredeyse tamamı “doğa”, “canlı” ve “doğa ve canlı” evrenine ait isim ve fiillerin adları olarak ortaya çıkan kelimelerin anlamlarından uzaklaştırılarak yukarıda genel çerçevesi çizilen dilbilgisi anlamlarının yüklenmesiyle elde edilmiştir. Çalışma konumuz olan “yardımcı fiil”lere bu açıdan bakıldığında tamamı anlam boşanması (Dilaçar, 1968: 8-9) sonucunda asıl fiillerden oluşturulmuştur.
-Yardımcı Fiil ve Anlam Boşanması
+
+### Yardımcı Fiil ve Anlam Boşanması
+
 Yardımcı fiilin anlamını yerine getirmesi için asıl fiiller üzerinde iki değişik yolla anlam boşanması gerçekleştirilmektedir:
-1.	Doğrudan Anlam Boşanması
+
+### 1.	Doğrudan Anlam Boşanması
+
 Doğrudan anlam boşanmasına uğratılarak asıl fiilin veriliş anlamlarının yerine gramer bağıntıları için gereken anlamın yüklenmesiyle oluşur. Örneğin, “etmek” fiili, “Bir işi yapmak: "Şemsi, sıra düştükçe emlak komisyonculuğu ediyordu.” - Haldun Taner; davranmak: “İyi ettiniz de geldiniz.”; bulmak, erişmek: “Hemşerileri gelir, kemençe gibi bir çalgıyla sabahı ederlerdi.” - Refik Halit Karay; eşit değer kazanmak: “İki iki daha dört eder.”; herhangi bir değerde olmak: “Kira dâhil olduğu hâlde aylık masrafımız tam beş lira ediyordu.” (Akalın, 2011: 832) gibi veriliş anlamlarına sahipken “Bana hakikaten yaşamak imkânını verdiğin birkaç ay için sana teşekkür ederim.” (Ali, 2016: 169) cümlesinde olduğu gibi veriliş anlamlarından uzaklaştırılarak Arapça “teşekkür” kelimesinin hem fiilleştirilmesi hem de fiil anlamıyla yüklemleştirilmesi için kullanılmıştır.
-2.	Sistemli Anlam Boşanması
+
+### 2.	Sistemli Anlam Boşanması
+
 Türkçe iki değişik yapıda öncül ek (Delice, 2009: 703-716) kullanımıyla asıl fiilleri daha çok fiilimsi ekleri ve kip eki bağlamıyla kullanılan [-(n/y)A], [-(n/y)I], [-(y)mIş], [-(y)AcAk], [-DI], [-mAyA] vb. eklerle yardımcı fiile; daha çok zarf görevinde kullanılan isim soylu kelimeleri de daha çok durum eki bağlamıyla kullanılan [-(n/y)A] ve [-Dan] ekleriyle edata dönüştürmektedir. Örneğin, “önce” kelimesi “Okula önce Ahmet geldi.” cümlesinde kendi üretiliş anlamıyla kullanılıyorken “Okula Ayşe Ahmet’ten önce geldi.” cümlesinde [-dAn] öncül ekiyle bütünleşmesinden dolayı iki kavram arasında zaman ilgisi kurmaya yarayan bir edata Türkçenin sistemi dolayısıyla dönüşmüştür. Bu yapıdaki edatlar sadece kelimeden oluşan değil önce ekin kullanıldığı [ek + taban] yapısındaki birleşimden oluşan ekle birleşik bir yapıdadır. Yani, edat denilen kelime türü, sadece “önce” değil; “-dAn önce”dir. Aynı şekilde, “bulunmak” fiili,“Kaybolan kitap ilgisiz bir rafta bulundu.” cümlesinde kendi üretiliş anlamıyla kullanılmıştır. Oysa, “Nasıl olduğunu anlayamadım; birden söylemiş bulundum.” cümlesinde [-mIş] öncül ekiyle bütünleşmesinden dolayı “bulunmak” fiili artık kendi öz anlamları dışında kullanılmıştır ve eklendiği asıl fiile birden birelik, bilinç dışılık, pişmanlık gibi anlam ilgileri katmaya yarayan bir yardımcı fiile “-mIş bulunmak” Türkçenin sistemi dolayısıyla dönüştürülmüştür. Bu yapıdaki yardımcı fiiller de sadece kelimeden oluşan değil; önce ekin kullanıldığı [ek + taban] yapısındaki birleşimden oluşan ekle birleşik bir yapıdadır. Yani, yardımcı fiil denilen kelime türü, sadece “bulunmak” değil; “-mIş bulunmak”tır.
+
 Türkçede varoluş evreni, dil alanı olan kelimelerin neredeyse tamamı bu şekilde elde edilmiştir. Hangi yolla olursa olsun bu süreci ifade etmek için dil araştırıcıları arasında “dilbilgiselleşme / gramerleşme” terimi çok yaygınlık kazanmıştır; ancak, dilbilgiselleşme, kelimeleri var olan tüm anlamlarıyla cümle bağlamında kullanmanın adı da olduğu için doğru bir kullanım olmaz. İçinde “Ali bahçede oynuyor.” cümlesinde olduğu gibi gramer bağlantısı için kullanılan hiçbir kelime olmasa bile ortaya çıkan cümle bir dilbilgisi işletiminin örneğidir. Yani, zihindeki anlamın dilbilgisi kuralları ile ete kemiğe bürünmüş şeklidir.
-Türkçede Yardımcı Fiillerin Sınıflandırılması
+
+## Türkçede Yardımcı Fiillerin Sınıflandırılması
+
 Türkçede bir kelime türü dahi kabul edilmeyen ve fiil başlığı altında incelenen yardımcı fiillerinin sınıflandırılması ile ilgili çalışmalar da vardır. Bunların başında Ahmet Turan Doğan’ın çalışması gelmektedir. Doğan, makalesinde “3.1. Yardımcı Fiillerin Sınıflandırılması” başlığı altında yardımcı fiilleri “3.1.1. İsimleri fiilleştirmede kullanılan yardımcı fiiller” (2017: 199) ve “3.1.2. Asıl Fiilin Kipini ve Zamanını Belirtmek İçin Kullanılan Yardımcı Fiiller” (2017: 210) başlıkları altında iki grup şeklinde değerlendirir.
+
 Türkçede doğrudan anlam boşanması ile elde edilen fiiller, isimleri isim kavramı ile yüklemleştirmek ve isimleri fiil kavramlarının temsilcisi hâline getirerek yüklemleştirmek olmak üzere iki değişik görev için kullanılmaktadır. Bunlardan birincisine “yüklemlik yardımcı fiil”; ikincisine “yüklem-fiillik yardımcı fiil” denebilir (Delice, 2022: 462-463).
+
 Türkçede sistemli anlam boşanması ile elde edilen ve [ek + fiil = yardımcı fiil] yapısında kullanılan fiiller, cümlede çekimlenerek temel veya iç cümlenin yüklemi olmuş asıl fiiller ile fiilimsi ekleri alarak yan cümlenin yüklemi olarak kullanılan fiilimsilere pişmanlık, yeterlilik, hızlılık, beklenmezlik, hayret, sürerlilik, başlama, bitiş gibi çok değişik görevler için kullanılmaktadır. Bu şekilde Türkçenin işletim sistemi yoluyla elde edilmiş yardımcı fiillere “kiplik yardımcı fiil” denebilir (Delice, 2022: 462-463).
-1.	Yüklemlik Yardımcı Fiiller
+
+### 1.	Yüklemlik Yardımcı Fiiller
+
 İsim cümlelerinden oluşan temel cümlelerin yüklemlerini, iç cümlelerin yüklemlerini -yüklemsi- ve yan cümlelerin yüklemlerini -yüklemsi- oluşturmak için kullanılan yardımcı fiillerdir.
+
 Bu yapıda kullanılan yardımcı fiiller, sadece yüklem veya yüklemsi oluşturmak için kullanılır ve uydusu oldukları isimleri fiilleştirmez. Yani, bu tür yardımcı fiillerle kullanılan isimler, kavram alanı olarak da isimdir; yardımcı fiil, uydusu olduğu isimleri fiile dönüştürmez. Cümleye hakim olan kavram, isim kavramıdır. Bu nedenle, bu yapıdaki fiil öbekleriyle oluşturulan temel, iç ve yan cümleler isim cümleleridir.
+
 Bu gruptaki yardımcı fiiller “ermek”, “turmak” ve “olmak”tır. Bu fillerden ermek, bazen hem kip hem kişi eki bazen sadece kip eki bazen de sadece kişi eki ile gösterilmek suretiyle; turmak fiili de kip ve kişi eklerinin eksiltilmesi ve fiil tabanı “tur”un ünlü ve ünsüz uyumuna bağlanarak gösterilmesiyle yapı açısından ekleşmiştir. Ek-fiil denmiş olması, fiil tabanı üzerinde kullanılması gereken eklerin isim tabanı üzerinde kullanılmasını izah etmesi açısından yerinde bir terimleştirme olmuştur.
-1.1.	Ermek
+
+## 1.1.	Ermek
+
 Türkçenin yazıyla takip edilebilen, Eski Türkçe döneminden beri isimleri veya isim görevinde kullanılan kelime öbeklerini yüklem veya yüklemsileştirmek amacıyla kullanılan bir yardımcı fiildir. Bu yardımcı fiil, her ne kadar temel kaynaklarda fiilleştirme ile ilişkilendirilse (Ergin 2009: 314) de bu fiilin isimleri fiilleştirme boyutu, anlamca değildir. Sadece yapı bakımından üzerinde geldiği isim veya isim yapılarını kip ve zaman kavramları açısından çekimletmiş olmaktan ibarettir: “Öğretmen erür men.” cümlesinde ermek fiilinin kullanılış amacı, yüklem olan öğretmen ismini yüklem yaparken “Şu an öğretmen olarak çalışmaktayım.” anlamını da eklemektedir.
+
 Bu fiili, Muharrem Ergin, “Bu fiil eskiden cevherî fiil, cevher fiil denilen, bugün isim fiil veya ana yardımcı fiil diyebileceğimiz i- fiilidir. Belirli çekim şekilleri ile vazife görerek bir yandan birleşik fiil çekimlerinin temelini kuran, öte yandan bütün isim ve isim şekillerini fiil kalıbına sokarak, onları fiilleştirerek isim cümlelerini ortaya çıkarır.” (2009: 314) demektedir. Tahsin Banguoğlu, “Dilimizde kökü erimiş, yalnız çekim ekleri halinde kalmış bir fiil vardır ki anlamca bir durum fiilidir, bir halde bulunuşu anlatır: E.T. er-mek > E.O. i-mek > Y.T. . -mek Buna cevher fiili (verbe substantif) adını veririz. Bununla beraber fiilin kökü halâ konuşma ve yazıda yer yer i-di i-miş i-se gibi fiil gövdelerinde ortaya çıktığından onu i-mek fiili diye de anarız. Bu cevher fiili, başka dillerde de olduğu gibi, yalın anlamlı bir durum fiili olduğu için salf fiil (verbe absolu) adını da ahr. Bunun karşısında bütün öbür fiillere gerçek fiil (verbe réel) denir.” (1974: 474) şeklinde tanımlar. Zeynep Korkmaz ise “Eski Türkçede ermek yardımcı fiilinin ermek > irmek > imek şeklinde ekleşmesinden oluşan ve isim soylu kelimelerin yüklem olarak kullanılmasını sağlayan ve birleşik fiil çekimlerinde de görev alan fiil. Şahıslara göre çekiminde + (l)m / + Um, + (sln / sUn, + sl-nlz / + sU-nUz, DlrlAr / + durlAr şekillerine girer: çalışkan + ım, çalışkan + sın, çalışkan + dır, çalışkan + ız, çalışkan + sınız, çalışkan + dırlar gibi.” (1992: 52) şeklinde ek-fiil maddebaşı altında tanımlar.
+
 Bu fiilin Türkiye Türkçesinde imek şeklindeki kullanımları tam anlamıyla yardımcı fiil kategorisinde sayılmalıdır. Yani, idi, imiş ve ise gibi kullanımları ek-fiil sayılmamalıdır; çünkü, fiil tabanı eksilmemiştir; mevcuttur. Ediskun, “Ermek mastarı Batı Türkçesine geçerken r düşmüş, e de. i olmuş; bu suretle, imek şeklini almıştır. Bu duruma göre; bu rnastarın kökü i-'dir. Bugün, kelimelerden ayrı yazıldığı zaman bu fiile yardımcı fiil, kelimelere bitişik yazıldığı zaman ek gibi göründüğü için ek-fiil demekteyiz.” (1963: 187) şeklinde yardımcı fiil / ek-fiil ayırımı yapar. İmek fiilinin tamamen düşmesi sonrasında ekleşmesi üç değişik şekilde görülmektedir.
+
 Dolayısıyla, bu fiilin hem yardımcı fiil hem de ek-fiil denebilecek iki ayrı kullanımı ile görülmesi mümkündür:
-A.	Yardımcı Fiil Kullanımları:
+
+## A.	Yardımcı Fiil Kullanımları:
+
 “O eskiden beridir gerçi hep o âfet idi / Fakat şiârı faziletlerle ülfet idi / Onun bu hâleti hem başka bir letâfet idi / Ne cilvedir ki bu yârim yabancılaşmıştır” (Ali 2016b: 153)
+
 “Yazarken hava bulutlu idi, diyorsun ama, belli ki senin için güneşli imiş.” (Ali 2016c: 29)
+
 “Ben Konya’da muallim iken İstanbul’dan bir üniversite grubu geldi.” (Ali 2016c: 29)
-B.	Ek-fiil Kullanımları:
-1. [Kip + kişi eki] yapısındaki kullanımlarıdır:
+
+## B.	Ek-fiil Kullanımları:
+
+### 1. [Kip + kişi eki] yapısındaki kullanımlarıdır:
+
 “Yazı yazmıyor, birtakım çizgiler çiziyordu. Fakat bu hareketi, sinirli bir adamın, farkında olmadan, herhangi bir şeyle meşgul olması değildi. Hatta dudaklarının kenarında, sarı bıyıklarının hemen alt tarafında, kendinden emin bir tebessümün belirdiğini görür gibiydim.” (Ali 2016a: 22)
+
 “Güneşler gibi tek miydin? / Ay ışığından ak mıydın? / Böyle nazlı çiçek miydin? / Dünyaya geldiğin zaman?” (Ali 2016b: 53)
+
 “Aşkını candan duymuşum, / Canım yoluna koymuşum. / Tam dokuz yaşındaymışım / Dünyaya geldiğin zaman.” (Ali 2016b: 53)
-2. Sadece [kip ekleri] ile gerçekleşen kullanımları:
+
+### 2. Sadece [kip ekleri] ile gerçekleşen kullanımları:
+
 “Hatta pek alelade, hiçbir hususiyeti olmayan, her gün etrafımızda yüzlercesini görüp de bakmadan geçtiğimiz insanlardan biriydi.” (Ali 2016a: 11)
+
 “Biraz çirkin, fakat cana yakın bir karısı vardı.” (Ali 2016a: 14)
+
 “Mühimce mevkilere geçen adamların esaslı âdetlerinden biri de galiba eski –ve kendilerinden geri kalmış– arkadaşlarına karşı gösterdikleri bu biraz da şuurlu dalgınlıktı. ” (Ali 2016a: 14)
+
 “Halbuki sebeplerin en büyüğü, en mukavemet edilmezi, ölüm varmış. ” (Ali 2016a: 157)
-3. Yine sadece [kişi ekleri] şeklindeki kullanımları:
+
+### 3. Yine sadece [kişi ekleri] şeklindeki kullanımları:
+
 “Ne oluyorsunuz? Neredeyse ağlayacaksınız!.. Siz hakikaten bir ablaya değil, bir anneye muhtaçsınız... Söyleyin bakayım, şimdi benden ayrılıp gidiyordunuz değil mi?” (Ali 2016a: 83)
+
 “Bana karşı da bu kadar saklanmaya muhakkak lüzum görüyor musunuz? Dünyada benim için en kıymetli insansınız... Buna rağmen sizin gözünüzde herkes gibi bir hiç olduğumu söyleyerek mi beni bırakıp gitmek istiyorsunuz?” (Ali 2016a: 44)
+
 Bu fiilin hem yardımcı fiil hem de ek-fiil kullanımlarının olumsuzu “değil” edatı ile yapılır:
+
 “Allah yardımcın olsun. Dedim ya, sana o mektubu veren doktor dostun değil imiş. Hadi, diyelim o eloğlu, senin kendi canına acıman da yok mu?” (Ali 2016d: 38)
+
 “Bilmiyorum!” dedi. “Bedri’nin bizimle ahbaplık etmesi... Bize yardım etmesi doğru değilmiş... Onlara zararı varmış...” (Ali 2016e: 179)
+
 “Halbuki o hiç de fevkalade bir adam değildi.” (Ali 2016a: 11)
-1.2.	Durmak
+
+## 1.2.	Durmak
+
 Ermek fiilinde olduğu gibi turmak fiili de Türkçenin yazıyla takip edilebilen ilk dönemlerinden beri isimleri veya isim görevinde kullanılan kelime öbeklerini yüklem veya yüklemsileştirmek amacıyla kullanılan bir yardımcı fiildir.
+
 Bu fiili, Muharrem Ergin, “Yalnız bildirme eklerinin birinci, ikinci şahısları er- fiilinin geniş zamanının ekleşmesinden doğmuştur. Üçüncü şahıslar ise başka bir fiilden gelirler. Bu fiil tur- > dur- fiilidir. Eski Türkçede ana yardımcı fiil yalnız er- idi, üçüncü şahıslarda da er- kullanılırdı. Sonradan buna tur- yardımcı fiili de katılmıştır.” (2009: 314) şeklinde ermek fiilinin yanında sadece 3. kişiler için ortaya çıkmış olduğunu belirtir. Tahsin Banguoğlu, “Gerçek fiillerde 2. bölük kişi çekim eklerine uyan bu ekler (bkz § 378) şüphesiz sade ses degişmelerinin değil, kullanış dcgişmelerinin de bir mahsulüdür. 3. kişide ise Eski Türkçeden beri ermek fiiline paralel bir salt fiil olma istidadı gösteren turmak fiili yer almıştır: tur-ur > dur-ur > -dir tur-ur-lar > dur-ur-lar > -dirler.” (1974: 474) şeklinde Erginle aynı fikri paylaşarak tanımlar. Zeynep Korkmaz ise “tur- yardımcı fiilinin geniş zaman çekiminden (tur-ur) çıkan, yüklemi özneye bağlayan, ekleşip ünlü ve ünsüz uyumlarına giren, cevher fiilinin ihbarının teklik ve çokluk üçüncü şahıs çekimlerine gelerek anlamı kuvvetlendiren Dlr eki: olgundur, çalışkandır, siyahtır, çocuktur, yakındır, değildir vb. Bu ek bazı bildirme ve tasarlama kiplerinin de sonuna gelerek oluş ve kılışa süreklilik, kesinlik, kuvvetli, bir ihtimal kavramları katar.” (1992: 24-25) şeklinde tanımlamaktadır.
+
 Bu yardımcı fiil, araştırmacıların ortak kanaatine göre ismi yüklemleştirirken ermek yardımcı fiilinin yanında 3. kişilerle kullanılmaktadır. Bu yardımcı fiilin ekleşmesi ermek fiilinin tersine üzerinden kip ve kişi eklerini eksilterek gerçekleştiği için 1. ve 2. kişileri ifade etmesi de zaten mümkün olamaz.
+
 Bu yardımcı fiilin yardımcı fiil olarak kullanımı Türkiye Türkçesi bağlamıyla artık tamamen ortadan kalkmıştır ve [-DIr / -Dur] şeklinde hep ek olarak kullanımı mevcuttur. 
+
 “Dibinde bir ejderhanın yaşadığı bilinen bir kuyuya inecek bir kahraman bulmak, muhakkak ki, dibinde ne olduğu hiç bilinmeyen bir kuyuya inmek cesaretini gösterecek bir insan bulmaktan daha kolaydır. Benim de Raif Efendi’yi daha yakından tanımam sadece bir tesadüf eseridir.” (Ali 2016a: 11)
+
 “Dün akşam, yatakta Maria ile karşı karşıyayken anladım ki, benimle münasebeti olmayan bu vücudu, bu kafayı taşımak, bundan sonra bana daha güç gelecektir.” (Ali 2016a: 158)
+
 “Cinsî hayatın, dimağ hayatıyla ne kadar yakından münasebettar olduğu malûmdur.” (Ali 2016f: 158)
+
 “Bilhassa mahallenin kadınlarıyla ihtiyarlarının bunlara teveccühleri vardır ve analarıyla babalarının “medarı iftiharı”dırlar.” (Ali 2016g: 19)
+
 “Memleketin küçük şehirlerindeki kızlarımız ise fikrî hayat ve tahsil hayatı itibariyle şehirlerdekilerden farksız, aynı zamanda onların muhitten aldıkları bazı dünyevî malumattan da mahrumdurlar.” (Ali 2016f: 19)
+
 Bu ek-fiilin kendisi çokluk kişi eki ile yer değiştirerek de kullanılabilmektedir:
+
 “Türkiye’ye has olan mücrimler yalnız hiddet veya içki tesiriyle veya kıskançlık yüzünden katillerdir.” (Ali 2016f: 119)
+
 “Bu hapishaneleri umumiyetle mücrim olmayan mahkûmlar doldurur. Ekserisi katilden yatan bu mahkûmlar, kendi muhitleri ve zihniyetleri nazar-ı itibara alınırsa, gayet tabiî, makul ve namuslu insanlardır.” (Ali 2016f: 119)
+
 “Esrarı içeri sokan gardiyanlar ve jandarmalardır.” (Ali 2016f: 120)
+
 Bu ek-fiilin olumsuzu da “değil” edatı ile yapılır:
+
 “Bir de haylaz, kavgacı, insafsız kabadayılar vardır. Bunların da gözleri hiçbir şeyden yılmaz; fakat diğerleri gibi ağırbaşlı değildirler.” (Ali 2016g: 19)
+
 “A iki gözüm, senin bu Hilmi Bey’e bir kötülüğün dokunmuş değildir. Senden intikam almak istemesine filan imkân yok.” (Ali 2016g: 50)
+
 “Annenin sözlerine de pek kulak asma. Ali kötü çocuk değildir. Parası var, malı da var. Ahlakı da mazbut...” (Ali 2016g: 83)
-1.3.	Olmak ( < Bolmak)
+
+## 1.3.	Olmak ( < Bolmak)
+
 Eski Türkçe için yazılmış gramerlerde isimleri fiil çekimine sokup onları isim anlamıyla yüklemleştirmek amacıyla bolmak fiilinin de kullanıldığı söylenir “özüm karı boltum "Ben yaşlandım" T 56) bäglik urı ogluñ kul boltı. "Bey olmaya layık erkek evladın köle oldu" (KT D 24) eşilik kız ogluñ küñ boltı "hanım olmaya layık kız evladın cariye oldu" (KT D 24) ” (Tekin 2003: 207).
+
 Eski Anadolu Türkçesi metinleri ile ilgili buna benzer tespitler de görülmektedir “Ol- fiili bildirme ile beraber cevheri fiil olarak da kullanılmıştır. Bu durum, Eski Türkçeden beri görülen bir durumdur.” (Aksu 2019: 1872) denmektedir. “Dāvud oġlı Süleymān bu Süleymān olmazısa kim bu ḳadar maʽṣūm oġlanuñ Loḳmān Ĥakim bigi kāmil yoḳdur (SK, 241b/04) Pādişāhı sen olan ḳula ne ġam (LD, 34/7) Aviġāyil eyitdiler kim: Yā Eliʽam ḳızı! Sen bir yoḳsuluñ ḳızı olasın. (SK, 210b/11) Ne eksük oldısa bizden bugün tamām olsun (AD, 127) Daḫı dönüp İblis'e eyitdiler kim: Yâ sen nice şeyḫ-i necid olasın (SK, 230b/12)” (Aksu 2019: 1872-1873) cümleleriyle örneklendirilmektedir.
+
 Günümüz araştırmacılarında da bu yönde bulgular tespit edilmektedir: “Ol- bu kullanımda varlığın bir durumdan yeni bir duruma geçtiğini anlatır ve bunu varlığa, yani isme hareket ve zaman kavramlarını da katarak yapar; yani ismi fiilleştirir: Yarın hava daha güzel olacak. Dayımlar akşam bize misafir oldu. İnsan bu mevsimde çabuk hasta oluyor. Komşunun Hakan öğretmen olmuş. Cümlelerinde “hava”, “dayımlar”, “insan”, “Komşunun Hakan” varlıkları ol- fiili yardımıyla daha önceki hallerinden “güzel”, “misafir”, “hasta” ve “öğretmen” hallerine geçmişlerdir. Bu fiilleştirmenin i- ve -DIr’dan farklı olduğunu, bu ikisinin bir bildirme yaparken ol-‘ın bir oluş anlattığını tekrar etmekte fayda vardır.” (Alibekiroğlu 2015: 195); “Türkçenin değişik dönemlerinden verilen anlam örneklerinden de anlaşıldığı üzere ol- fiili hem yardımcı fiil hem de asıl fiil olarak çokça kullanılmıştır. Yardımcı fiil olarak kullanıldığında Türkçenin oluş ifade eden bir yardımcı fiilidir.” (Doğan 2017: 207); “{i-} ve {ol-} eylemlerine yardımcı eylem ölçeği açısından bakıldığında birer yardımcı eylem oldukları açıktır. Bunun dışında, daha önce de belirtildiği gibi yüklemleştirici olma ve kip-zaman-görünüş ulamlarını bir arada taşıyabilme noktalarında aralarında bir paslaşma, birbirini tamamlama eşdeğerliği de bulunmaktadır. Buna karşın, yantümceleştirme sürecinin, bu ölçütlerden daha güçlü ve daha açık kanıtlar sunduğu söylenebilir.” (Sebzecioğlu ve Şen 2020: 1577).
+
 Bu çalışmalarda verilen örneklerde bu fiilin yardımcı fiil mi yoksa asıl fiil mi olarak kullanıldığının sözdizimi bağlamıyla sorgulanması durumunda asıl fiile daha yakın bir anlamla kullanıldığı görülmektedir. Yani, bu fiilin yüklemlik yardımcı fiil oluşuna ihtiyatla yaklaşmak gerekmektedir.
-2.	Yüklem-Fiillik Yardımcı Fiiller
+
+## 2.	Yüklem-Fiillik Yardımcı Fiiller
+
 Bu grup yardımcı fiiller, sözdizimi açısından yabancı isimlerin yüklem veya yüklemsi olmasını sağlarken aynı zamanda onları fiilleştirmek için kullanılmaktadır. Bu tür yardımcı fiiller, isimleri sözdizimi açısından yüklem veya yüklemsileştirirken bir isimden fiil yapım eki göreviyle de kullanılmış olur. Örneğin, “Her zaman ihmalkâr olmayan, hatta bu gibi kaidelere fazlaca dikkat eden ve hayattaki muvaffakiyetinin bir kısmını da bu dikkatine borçlu olan Hamdi’nin beni böyle ortada bırakıvermesinin sebebini düşündüm.” (Ali 2016a: 14) cümlesinde geçen ve [-An] sıfat-fiil ekiyle kullanılan etmek fiili dikkat ismini yüklemsileştirirken aynı zamanda onu “gözetlemek, ilgilenmek” gibi bir fiil anlamına dönüşmesini de sağlamıştır.
+
 Bu tür fiillerin tamamı asıl fiillerden doğrudan anlam boşanması yoluyla yardımcı fiile dönüştürülmüştür ve sayıları sınırlıdır. Cümlede fiilleştirerek yüklem veya yüklemsileştirdikleri isimlerle birlikte temel, yan veya iç cümlenin yüklem yahut yüklemsisini oluşturur.
-1.1.	Almak
+
+## 1.1.	Almak
+
 “Her sevdiğini lezzet alur hırpalamaktan / Korkum bu ki zen kısmına bühtâna girişdi.” (Ali 2016b: 135)
+
 “Vakit ikindiyi geçmişti. Hoca kollarını sıvayıp abdest almaya hazırlanıyordu. İlerdeki hızarcılar, biçtikleri ceviz kütüğünün arkasında namaza durmuşlardı.” (Ali 2016b: 135)
+
 “Onlar gâvur, iki gözüm. Trenden çıkınca otelde bir banyo almadan, nazik vücudunu dinlendirmeden gelir mi hiç.” (Ali 2016d: 72)
-1.2.	Etmek
+
+## 1.2.	Etmek
+
 “Kendimde hiçbir gayritabii temayül bulunmadığını bildiğim halde, bir kadına âşık olmayı tercih ederim.” (Ali 2016a: 83)
-1.3.	Eylemek
+
+## 1.3.	Eylemek
+
 “Bir hayli gayret sarf eyledim, meydana iyi bir şey çıkmadı ise bu gayret ve mesaîmizin azlığından değil aczimizin çokluğundandır.” (Ali 2016b: 123-124)
-1.4.	Kılmak
+
+## 1.4.	Kılmak
+
 “Bu dalganın sırrına eremedim gitti. Nihayet bir gün kendisi açıldı. Hiç unutmam, seccadesini sermiş, namaz kılıyordu. Ben de masamda irsaliye kesiyordum.” (Ali 2016d: 79)
+
 “Bu defterin emâneti de mesbûk-ül-ism Pertev Nâilî Mollaya tevdî kılınmuşdur.” (Ali 2016b: 122)
-1.5.	Yapmak
+
+## 1.5.	Yapmak
+
 “Hiçbir teşkilata mensup olmadığım, propaganda yapmadığım, talebeye hiçbir suretle telkinatta bulunmadığım, hülasa hiçbir suretle mücrim olmadığım tahkikat ile sabit olmuşken bende mefruz cürümler aramak, himayesine sığındığımız vekaletin bana üvey evlat muamelesi yapmasıdır.” (Ali 2016f: 9)
-3.	Kiplik Yardımcı Fiiller
+
+## 3.	Kiplik Yardımcı Fiiller
+
 Bu tür fiillerin tamamı, asıl fiillerden bir öncül ek yoluyla anlam boşanması sonucunda yardımcı fiile dönüştürülmektedir ve öncül kiplik ekinin üzerinde kullanıldığı asıl fiillere sürerlilik, planlama, bitmişlik, başlama, birdenbirelik, pişmanlık, bilinçdışılık, devamlılık, yaklaşma gibi kip anlamları katmak için kullanılır.
+
 Dil bilgisinin temel kaynaklarında “birleşik kipli fiiller” (Korkmaz 2009: 730), “katmerli birleşik kipler” (Korkmaz 2009: 776), “bir yanı sıfat-fiil bir yanı yardımcı fiil olan birleşik fiiller (karmaşık fiiller, complex verb)” (Korkmaz 2009: 801), “bir yanı zarf-fiil bir yanı yardımcı fiil olan birleşik fiiller: tasvir fiilleri (Alın. deskriptiv verb; Fr. verbe descriptif; İng. descriptiv verb; Osm. tasvirf fiil, fi'1-i tasviriyye)” (Korkmaz 2009: 811), “belirleyici birleşik fiiller” (Korkmaz 2009: 834), “kip ekleriyle kurulan birleşik fiiller” (Demir 2013: 385- 394)  isimlendirmeleri ile ele alınan başlıkların hepsi [asıl fiil / yardımcı fiil] yapısında asıl fiile kip anlamı yüklemek için kullanılan fiil öbekleridir. Bu öbekte, yardımcı fiil, kaynakların gösterdiği gibi “yazmak”, “vermek”, “kalmak”, “bulunmak” gibi salt bir fiil değildir. Kendinden önce gelen bir öncül kiplik ekiyle bütünleşmiş “-Ayazmak”, “-Ivermek”, “-Akalmak”, “-mIş bulunmak” gibi yardımcı fiillerdir. Bu tür yardımcı fiillerden öncül kiplik eki, fiillerin yan yanalığından ikinci fiilin yardımcı fiilliği kuvvetli bir şekilde hissedildiğinde eksiltilebilmektedir “Bak dur.” (Demir 2013: 390).
+
 Bu tür fiiller, Türkçenin çekimlerinin zenginleştirilmesinde kullanıldığı için fiil çekimlerini isimlendirmede bu tür yardımcı fiillerin asıl fiillere yüklediği kip anlamını esas almak, fiil çekimlerinin tutarlı bir şekilde isimlendirilmesine de vesile olacaktır. Örneğin, gelecek zamanın hikâyesi olarak isimlendirilen “okuyacaktım” bir fiil çekimidir ve ifade edilen zaman, gelecek zaman değildir. Zaten gelecek zamanın hikayesi de mantıkça mümkün olamaz. Türkçede fiil çekimi sadece kip ve kişi ekleriyle yapılırken çekimlenmiş bir fiile ikinci, üçüncü veya beşinci kip anlamı mutlaka “kiplik yardımcı fiiller” yoluyla eklenir. Dolayısıyla, gelecek zamanın hikâyesi diye isimlendirilen “okuyacaktım” söyleyişi aslında “okuyacak ertim”dir ve bu çekimde [-DI/-DU] eki, geçmiş zamana işaret ederken [-acak ermek] kiplik yardımcı fiili “planlama” kip anlamını “okumak” asıl fiiline eklemek için kullanılmıştır. Böyle olunca da bu çekimin adının “planlama” ve “geçmiş zaman” anlamlarıyla belirlenmesi gerekmektedir. Bu iki kip anlamını ifade edecek şekilde bu çekime rahatlıkla “planlı geçmiş zaman” denebilir.
+
 Bu gruptaki yardımcı fiiller bir öncül kiplik ekiyle bütünleştiği müddetçe “yüklemlik yardımcı fiiller” ile “yüklem-fiillik yardımcı fiiller”den de oluşturulabilir. Onlardan tek farkı öz anlamlarından doğrudan değil; bir öncül kiplik eki vasıtasıyla uzaklaştırılmış olmalarıdır. Örneğin, “yüklemlik yardımcı fiil” olan “ermek”, [-r] öncülüyle bütünleştiğinde “-r ermek” şeklinde bu gruptaki bir yardımcı fiilin parçası da olabilir ve “gider idim” gibi bir çekimde “gitmek” asıl fiiline “tekrarlama şeklinde sürerlilik” kip anlamı katmak için kullanılmış olmaktadır. Ermek > imek ve durmak yüklemlik yardımcı fiilleri öncül kiplik ekiyle bütünleşerek sınıf değiştirdiğinde de ek-fiil olarak kullanılır.
+
 Bu tür yardımcı fiilleri oluşturan eklerin tamamı aynı işi yaptığı için kimine zarf-fiil, kimine sıfat-fiil, kimine, isim-fiil, kimine kip eki denmesi doğru değildir; bu kategoride kullanılan eklerin hepsi bir fiili herhangi bir kip anlamı yüklemek için dönüştürmesinden dolayı hepsine “kiplik eki” denmelidir.
+
 Bu tür yardımcı yardımcı fiiller sistem yoluyla elde edilebildiği için tam bir canlılığa sahiptir. Dil kullanıcısı yeteneği doğrultusunda hiçbir zaman kullanılmamış bir yardımcı fiili elde edebilir. Yani, bu tür yardımcı fiillere sayı sınırı koymak ve “Bu tür yardımcı fiiller şunlardır:” şeklinde durağan bir gösterimde bulunmak mümkün olmayacaktır. Bu nedenle, bu çalışma kapsamında listelenen yardımcı fiiller, kendi sınıfı için verilen örnekler mahiyetinde  kabul edilmelidir.
-1.1.	-(A, -I/-U)r Ermek
+
+## 1.1.	-(A, -I/-U)r Ermek
+
 Daha çok asıl fiile sürerlilik veya tekrarlanma yoluyla sürerlilik kip anlamı katmak için kullanılır. Bu kullanımıyla kaynaklarda genellikle “birleşik fiil çekimi” başlığı altında ele alınır.
+
 “Tercüme edilecek yazılar bir odacı ile evine gönderilir ve birkaç saat sonra aldırılırdı.” (Ali 2016a: 20)
-1.2.	-mIş Ermek
+
+## 1.2.	-mIş Ermek
+
 Daha çok asıl fiile sürerliliğin sonlanmışlığı kip anlamı katmak için kullanılır. Bu kullanımıyla kaynaklarda genellikle “birleşik fiil çekimi” başlığı altında ele alınır.
+
 “Geleceğimi eve telgrafla bildirmiştim, herhalde hazırlık yapmışlardır. Yoksa seni davet etmeye cesaret edemezdim!” dedi.” (Ali 2016a: 13)
-1.3.	-AcAk Ermek
+
+## 1.3.	-AcAk Ermek
+
 Daha çok asıl fiile geleceğe dair planlama kip anlamı katmak için kullanılır. Bu kullanımıyla kaynaklarda genellikle “birleşik fiil çekimi” başlığı altında ele alınır.
+
 “Öğleye doğru sıkıntımın azaldığını ve hayatı biraz pembe görmeye başladığımı fark ettim. Kendimi ne kadar manasız şeylerle üzdüğümü anlıyor, bütün kabahati hayalperestliğimde, kendi içime kapanıp kuruntu yapmamda buluyordum. Fakat artık değişecektim. Meslek kitapları dışındaki okumayı da azaltacaktım.” (Ali 2016a: 66)
-1.4.	-mIş Bulunmak
+
+## 1.4.	-mIş Bulunmak
+
 Daha çok asıl fiile bitmişliğe dayalı pişmanlık, tezlik, bilinçdışılık gibi kip anlamlarıı katmak için kullanılır. Bu kullanımıyla kaynaklarda genellikle “karmaşık birleşik fiil” başlığı altında ele alınır.
+
 “Hayatının en mühim kısımlarını ihtiva ettiği muhakkak olan bu defterle bile artık alakasını kesmiş bulunduğunu anladım. Ayrılmak için elini öptüm. ” (Ali 2016a: 45)
-1.5.	-AcAk [gibi] Olmak
+
+## 1.5.	-AcAk [gibi] Olmak
+
 Daha çok asıl fiile gerçekleşmemiş niyetlenme veya gerçekleşme noktasına geldiği hâlde gerçekleşmeme kip anlamını katmak için kullanılır. Bu kiplik yardımcı fiilin kullanımında öncül kiplik ekinden sonra edat olarak değil de kiplik olarak kullanılan bir “değil” edatı kullanılabilir. Bu kullanımıyla kaynaklarda genellikle “karmaşık birleşik fiil” başlığı altında ele alınır.
 “Yüzümün birkaç santim ilerisine kadar yaklaşan bu saadet karşısında kalbim duracak gibi oldu. ” (Ali 2016a: 84)
-1.6.	-tI Durmak
+
+## 1.6.	-tI Durmak
+
 Daha çok asıl fiile [-(I)p] ve [(y)A] öncül kiplik eklerinin işleviyle eşdeğerde kullanılan [-DI/-DU] kiplik ekiyle birlikte süreklilik kip anlamını katmak için kullanılır. Bu kiplik yardımcı fiilin kullanımında öncül kiplik eki eksiltilebilir. Bu kullanımıyla kaynaklarda genellikle “kip ekiyle kurulan birleşik fiiller” başlığı altında ele alınır.
 “Bahçenin granitten duvarları bir surdu / Birçok ümitsiz adam orda dolaştı durdu... / Duvarların dibine defnetti uykusunu...” (Ali 2016b: 90)
-1.7.	-(A, -I/-U)r Olmak
+
+## 1.7.	-(A, -I/-U)r Olmak
+
 Daha çok asıl fiile alışmaya bağlı süreklilik, bir eylemin sonuna doğru ilerleme bildiren sürerlilik, kesinlik gibi kip anlamları katmak için kullanılır. Bu kullanımıyla kaynaklarda genellikle “kip ekiyle kurulan birleşik fiiller” başlığı altında ele alınır. Olumsuzu –mAz olmak kiplik yardımcı fiili ile yapılır.
+
 “Yûnus turdı girdi yola kamu gurbetleri bile / Kendü cigerüm kanıla vasf-ı hâlüm yazar oldum” (Tatçı 1991: 167)
+
 Çiçekler açılmaz oldu, / Pınarlar içilmez oldu, / Yâr bize bir gülmez oldu, / Böyleymiş kara yazımız.” (Ali 2016b: 50)
-1.8.	-(I/U)p Durmak
+
+## 1.8.	-(I/U)p Durmak
+
 Daha çok asıl fiile süreklilik, tekrarlamaya bağlı sürerlilik kip anlamı katmak için kullanılır. Bu kullanımıyla kaynaklarda genellikle “tasvir/tasviri birleşik fiiller” başlığı altında ele alınır.
+
 “Mustafa Seyit işin alayında, oh olsun deyip duruyor. Kaymakam da kahkahayı basıyor.” (Ali 2016c: 79)
-1.9.	-(y)I/U Vermek
+
+## 1.9.	-(y)I/U Vermek
+
 Daha çok asıl fiile hızlılık, kolaylık, tezlik gibi kip anlamlarıı katmak için kullanılır. Bu kullanımıyla kaynaklarda genellikle “tasvir/tasviri birleşik fiiller” başlığı altında ele alınır.
+
 “Sen ne âlemdesin? Mektepten unu aldın mı? Senai Bey’e namıma rica et, bu on iki kilo unu bir hademe ile yollayıversin.” (Ali 2016c: 101)
-1.10.	-mIş Olmak
+
+## 1.10.	-mIş Olmak
+
 Daha çok asıl fiile bitmişlik, gerçekleşmişlik, kesinlik gibi kip anlamlarıı katmak için kullanılır. Bu kullanımıyla kaynaklarda genellikle “karmaşık birleşik fiil” başlığı altında ele alınır.
+
 “Zaten bu mektubu aldığın zaman Ulus gazetesi muhasebecisi ve bizim Mehmet Ali’nin kardeşi Şerif Cimcoz size 300 lira getirip vermiş olacaktır. Sen bunu sarf eder ve bankadan aldığın parayı Şerif’e iade edersin. Bundan sonra da lazım oldukça bankadan alırsın.” (Ali 2016c: 101)
-1.11.	-A Bilmek
+
+## 1.11.	-A Bilmek
+
 Daha çok asıl fiile yeterlilik, güç yetirme, yapabilme gibi kip anlamlarıı katmak için kullanılır. Bu kullanımıyla kaynaklarda genellikle “tasvir/tasviri birleşik fiiller” başlığı altında ele alınır. Bu kiplik yardımcı fiilin olumsuzu “umak” fiiliyle yapılır ve genellikle –au- öncül kiplik eki ile fiil tabanı büzülme yoluyla [-A] şeklinde kaynaşmış olarak kullanılır.
+
 “Şimdi nasıl çalışabileceksiniz?” diyebildi.” (Ali 2016e: 62)
+
 “Evet, benim... Geç vakit geldim... Siz yatmıştınız.. Yani erken çekilmiştiniz, göremedim... Geçmiş olsun... şey, yani başınız sağ olsun...” dedi.” (Ali 2016e: 62)
-1.12.	-A Görmek
+
+## 1.12.	-A Görmek
+
 Daha çok asıl fiile yaptığına pişman etme, gerçekleştirilen eylemin farklı sonuçlar doğuracağı gibi kip anlamları katmak için kullanılır. Bu kullanımıyla kaynaklarda genellikle “tasvir/tasviri birleşik fiiller” başlığı altında ele alınır.
+
 “'Âşık ol 'ışk odına pervâne gibi yana gör / Oda yanan kimseler pes cânıdur âşıklarun” (Tatçı 1991: 119)
-1.13.	-A Yazmak
+
+## 1.13.	-A Yazmak
+
 Daha çok asıl fiile gerçekleşme noktasına yaklaşmasına rağmen gerçekleşmeme, neredeyse gerçekleşme gibi kip anlamları katmak için kullanılır. Bu kullanımıyla kaynaklarda genellikle “tasvir/tasviri birleşik fiiller” başlığı altında ele alınır.
+
 “Kâf Tagı'ndan bir taşı şöyle atdılar bana / Öylelik yire düşdi bozayazdı yüzümi” (Tatçı 1991: 267)
-1.14.	-mAyA Başlamak
+
+## 1.14.	-mAyA Başlamak
+
 Daha çok asıl fiile başlama kip anlamı katmak için kullanılır. Bu kullanımıyla kaynaklarda genellikle “belirleyici birleşik fiiller” başlığı altında ele alınır.
+
 “Ben yazları seyahate alıştığım için, uzun zaman İzmir’de kalmak beni sıkmaya başladı. Cici’yi Hayvanat Bahçesi’nden aldınız mı? Sakın İpek Hanım’ı yanınıza almadan gitmeseydiniz. Hele sepet ve çuval olmadan onu eve getirmeniz imkânsızdır. Ben götürürken neler çektiğimi unutmadım.” diyebildi.” (Ali 2016c: 90-91)
+
 Bu fiil grubuna dâhil olmadığı hâlde kaynaklarda “ikili birleşik fiil” “Türk Konsolosluğuna da gidip gelmeleri olmuş (E. Işınsu, ÇB, l05).” (Korkmaz 2009: 835-836) veya “seri fiil” “Biz oraya gidince bak gör neler olacak! (tecrübe et-)” (Hirik 2019: 126) gibi isimlerle adlandırılan eşdeğer iki asıl fiilin “ve” bağlacı yerine kullanılan “ara ek” yardımıyla birbirine bağlanmış şeklidir. Bu yapılardaki ikinci fiili yardımcı fiil saymamak gerekir. 
-Sonuç
+## Sonuç
+
 Türkiye Türkçesinin asıl fiillerden ikisi doğrudan anlam boşanması, biri ise Türkçenin ekleri vasıtasıyla anlam boşandırması yoluyla elde edilmiş ve üç değişik görevde kullanılan yardımcı fiil kullanımı söz konusudur. 
+
 Bu yardımcı fiilleri, görevleri doğrultusunda üç değişik kategori altında sınıflandırabiliriz.
+
 1. İsimleri fiilleştirmeden fiil gibi kip ve kişi çekimine sokarak sadece yüklem veya yüklemsileştiren “yüklemlik yardımcı” fiiller.
 “Ferhunde Hanım’ın kocası, İktısat Vekâleti şube müdürlerinden Nurettin Bey ise bizim Hamdi’nin bir başka türlüsüydü.” (Ali 2016a: 29)
+
 2. Alıntı isimleri hem fiilleştiren hem yüklem veya yüklemsileştiren “yüklem-fiillik yardımcı fiiller”.
 “Etrafıma bakmayı unutmuş, bir hayli ilerlemiştim. Rüzgâr çoğaldığı için adeta göğsümden biri iter gibi oluyor, bu kuvvetle mücadele ederek ilerlemek bana zevk veriyordu.” (Ali 2016a: 36-37)
+
 3. Bir öncül kiplik eki vasıtasıyla öz anlamından boşanarak ve anlamından boşandıran ekle bütünleşerek asıl fiillere değişik kip anlamları yüklemek için kullanılan “kiplik yardımcı fiiller”. 
 “Demek beni kıskanmıyorsunuz ha?” dedi. “Beni sahiden bu kadar çok mu seviyorsun?” Birdenbire gözlerini kaldırdı ve merakla yüzüme bakmaya başladı. Bu anda neler duyduğumu ona söyleyecek bir kelime bulamadığım için göğsümün daralır gibi olduğunu, boğazımın kuruduğunu hissettim.” (Ali 2016a: 104)
+
 Bu şekilde farklı kategori oluşturan yardımcı fiilleri birbirinden ayırmak Türkçenin fiil kullanımını tutarlı bir zemine oturtmak açısından faydalı olacaktır. Aynı zamanda, bu konunun bağlantılı olduğu tüm dil bilgisi kategorilerinin de birbiri arasında tutarlı bir şekilde ilişkilendirilmesi sağlanmış olacaktır.
-Taranan Eserler
+
+### Taranan Eserler
+
 Ali, S. (2016a). Kürk Mantolu Madonna Bütün Yapıtları Roman. 85. Baskı, İstanbul:  Yapı Kredi Yayınları.
+
 Ali, S. (2016b). Bütün Şiirleri Bütün Yapıtları. Özkırımlı, A. (Yay. Haz.). 23. Baskı, İstanbul:  Yapı Kredi Yayınları.
+
 Ali, S. (2016c). Canım Aliye, Ruhum Filiz Bütün Yapıtları Mektup. Sönmez, S. (Yay. Haz.). İstanbul:  Yapı Kredi Yayınları, 9. Baskı.
+
 Ali, S. (2016d). Sırça Köşk Bütün Yapıtları Öykü. Tapınç, O. (Ed.). 31. Baskı, İstanbul:  Yapı Kredi Yayınları.
+
 Ali, S. (2016e). İçimizdeki Şeytan Bütün Yapıtları Roman. Yılmazyurt, İ. (Ed.).  44. Baskı, İstanbul:  Yapı Kredi Yayınları.
+
 Ali, S. (2016f). Çakıcı’nın İlk Kurşunu Bütün Yapıtları. Toprak, B. (Ed.). 14. Baskı, İstanbul:  Yapı Kredi Yayınları.
+
 Ali, S. (2016f). Mahkemelerde Belgeler. Tapınç, O. (Ed.). 8. Baskı , İstanbul:  Yapı Kredi Yayınları.
+
 Ali, S. (2016g). Kuyucaklı Yusuf Bütün Yapıtları Roman. Tunç, A. (Ed.). 72. Baskı, İstanbul:  Yapı Kredi Yayınları.
+
 Tatçı, M. (1991). Yunus Emre Divanı. Ankara: Akçağ Basım Yayım Pazarlama Yayınları.
-KAYNAKLAR
+
+## KAYNAKLAR
+
 Akalın, Ş. H., Toparlı, R., Argunşah, M. … Tekeli, S. (2011). Türkçe Sözlük. 11. Baskı, Ankara: Türk Dil Kurumu Yayınları.
+
 Aksan, D. (2000). Her Yönüyle Dil Ana Çizgileriyle Dilbilim. 2. Baskı, Ankara: Türk Dil Kurumu Yayınları.
+
 Aksu, R. (2019). Ol- Fiilinin Eski Anadolu Türkçesi Metinlerindeki Bildirme işlevi Üzerine. XI. Uluslararası Dünya Dili Türkçe Sempozyumu Bildiri Kitabı, 16-18 Ekim 2019, Samsun, s. 1868- 1874.
+
 Alibekiroğlu, S. (2015). Ol- Fiilinin Türkiye Türkçesi Standart Dilindeki Kullanımları. Gaziantep University Journal of Social Sciences, Sayı 14/1, s. 193-206.
+
 Bangoğlu, T. (1974). Türkçenin Grameri. İstanbul: Baha Yayınları.
+
 Delice, H. İ. (2009). Türkçenin Öncül Ekliliği ve Türkçede Öncül Ek Taşıyan Yapılar. Journal of Turkish Studies. Volume 4 Issue 3, 703-716, DOI: http://dx.doi.org/10.7827/TurkishStudies.702.
+
 Delice, H. İ. (2022). Ek-fiil ile Yardımcı Fiil Farklı Kategori Oluşturabilir mi?. Prof. Dr. Kerime Üstünova Armağanı. Aydın, H., Karahancı, İ. (Ed.). İstanbul: Efeakademi Yayınları, 455-464.
+
 Demir, N. (2013). Kip ekleriyle kurulan birleşik fiiller. Prof. Dr. Leylâ Karahan Armağanı içinde (s. 385- 394). Ankara: Akçağ Yayınları.
+
 Dilaçar, A. (1968). Dil, Diller ve Dilcilik. Ankara: Türk Dil Kurumu Yayınları.
+
 Doğan, A. T. (2017). Türkiye Türkçesinde Yardımcı Fiiller Üzerine Değerlendirmeler. International Journal of Language Academy. Sayı 5/7, s. 192-221.
+
 Ediskun, H. (2010). Türk Dilbilgisi. İstanbul:  Remzi Kitapevi..
+
 Ergin, M., (2009). Edebiyat ve Eğitim Fakültelerinin Türk Dili ve Edebiyatı Bölümleri için Türk Dil Bilgisi, İstanbul: Bayrak Yayınları.
+
 Hirik, E. (2019). “Seri Fiil Yapıları ve Türkçe”.  Karadeniz Araştırmaları. XVI/61: 120-141. 
+
 Korkmaz, Z. (2009). Türkiye Türkçesi Grameri Şekil Bilgisi. 3. Baskı, Ankara: Türk Dil Kurumu Yayınları.
+
 Korkmazr, Z. (1992). Gramer Terimleri Sözlüğü. Ankara: Türk Dil Kurumu Yayınları.
-Sebzecioğlu, T. ve Şen, S. (2020). “Türkiye Türkçesinde (Ol-) Eyleminin (İ-) Eylemiyle İşlevsel Eşdeğerliğine Kanıt Sunan Yantümceleştirme Sürecinin Kırgız Türkçesiyle Karşılaştırılması”. Journal of Social, Humanities and Administrative Sciences 6(31):  1573-1590.
+
+Sebzecioğlu, T. ve Şen, S. (2020). “Türkiye Türkçesinde (Ol-) Eyleminin (İ-) Eylemiyle İşlevsel Eşdeğerliğine Kanıt Sunan Yantümceleştirme Sürecinin Kırgız Türkçesiyle Karşılaştırılması”. Journal of Social, 
+Humanities and Administrative Sciences 6(31):  1573-1590.
+
 Tekin, T. (2003). Orhon Türkçesi Grameri. 2. Baskı, Ölmez, M. (Yayımlayan). İstanbul: Türk Dilleri Araştırmaları Dizisi: 9.
   
 
