@@ -35,7 +35,7 @@ const FeatureList = [
   },
   {
     title: 'Kitap Bölümlerim',
-    Svg: require('@site/static/img/kitap_bolumleri.png').default,
+    Svg: require('@site/static/img/kitaplar.svg').default,
     url: 'kitap_bolumleri',
     description: (
       <>
