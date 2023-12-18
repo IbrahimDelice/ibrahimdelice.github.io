@@ -4,16 +4,6 @@ import styles from './styles.module.css';
 
 const FeatureList = [
   {
-    title: 'Bildirilerim',
-    Svg: require('@site/static/img/bildiri.svg').default,
-    url: 'bildiriler',
-    description: (
-      <>
-        ...
-      </>
-    ),
-  },
-  {
     title: 'Makalelerim',
     Svg: require('@site/static/img/makale.svg').default,
     url: 'makaleler',
@@ -24,9 +14,29 @@ const FeatureList = [
     ),
   },
   {
+    title: 'Bildirilerim',
+    Svg: require('@site/static/img/bildiri.svg').default,
+    url: 'bildiriler',
+    description: (
+      <>
+        ...
+      </>
+    ),
+  },
+    {
     title: 'Kitaplarım',
     Svg: require('@site/static/img/kitaplar.svg').default,
     url: 'kitaplar',
+    description: (
+      <>
+        ...
+      </>
+    ),
+  },
+  {
+    title: 'Kitap Bölümlerim',
+    Svg: require('@site/static/img/kitap_bolumleri.png').default,
+    url: 'kitap_bolumleri',
     description: (
       <>
         ...
