@@ -1,5 +1,5 @@
 ---
-slug: -t--+--tır--yapısındaki-fiillerde--t--ile--tır--eklerinin-bulunuşu-ve--t--nin-ilave-ses-olarak-kullanımı
+slug: turkcede_yardimci_fiillerin_gorevleri_ve_siniflandirilmasi
 sidebar_position: 1
 ---
 
