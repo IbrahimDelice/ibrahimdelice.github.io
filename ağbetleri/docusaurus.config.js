@@ -125,10 +125,6 @@ const config = {
                 label: 'Makaleler',
               },
               {
-                to: '/şiirler/',    // ./docs-api/Intro.md
-                label: 'Şiirler',
-              },
-              {
                 to: '/bildiriler/',    // ./docs-api/Intro.md
                 label: 'Bildiriler',
               },
@@ -139,6 +135,10 @@ const config = {
               {
                 to: '/kitap_Bolumleri/',    // ./docs-api/Intro.md
                 label: 'Kitap Bölümleri',
+              },
+              {
+                to: '/şiirler/',    // ./docs-api/Intro.md
+                label: 'Şiirler',
               },
               {
                 label: 'Günce',

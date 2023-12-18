@@ -19,7 +19,7 @@ function HomepageHeader() {
           <Link
             className="button button--secondary button--lg"
             to="/makaleler">
-            Makalelerimi okumaya buyurun!
+            Makalelerimi okumaya buyurunuz!
           </Link>
         </div>
       </div>
@@ -50,7 +50,7 @@ function Hakkımda() {
           </p>
           <p>
             Cumhuriyet Üniversitesi, Fen-Edebiyat Fakültesi, Türk Dili ve Edebiyatı Bölümü, Yeni Türk Dili ile Çağdaş Türk Lehçeleri  ve Edebiyatları Bölümü, Oğuz Grubu Anabilim Dalında öğretim üyesi olarak çalıştı.
-            2023 yılında Afyon Kocatepe Üniversitesine geçti ve hâlen burada akademik faaliyetlerini sürdürmektedir.
+            2023 yılında Afyon Kocatepe Üniversitesi, Fen-Edebiyat Fakültesi, Türk Dili ve Edebiyatı Bölümüne geçti ve hâlen burada akademik faaliyetlerini sürdürmektedir.
           </p>
         </div>
       </div>
