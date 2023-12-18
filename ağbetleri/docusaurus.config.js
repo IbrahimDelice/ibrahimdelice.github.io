@@ -238,6 +238,15 @@ const config = {
     [
       '@docusaurus/plugin-content-docs',
       {
+        id: 'kitap_bolumleri',
+        path: 'kitap_bolumleri',
+        routeBasePath: 'kitap_bolumleri',
+        sidebarPath: require.resolve('./sidebars.js'),
+      },
+    ],
+    [
+      '@docusaurus/plugin-content-docs',
+      {
         id: 'bildiriler',
         path: 'bildiriler',
         routeBasePath: 'bildiriler',
