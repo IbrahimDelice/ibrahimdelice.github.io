@@ -90,7 +90,7 @@ const config = {
           {
             to: '/kitap_bolumleri',
             position: 'left',
-            label: 'Kitap_Bölümleri',
+            label: 'Kitap Bölümleri',
           },
           {
             to: '/şiirler',
