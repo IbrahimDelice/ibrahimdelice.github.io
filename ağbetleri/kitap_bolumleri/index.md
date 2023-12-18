@@ -1,4 +1,4 @@
 ---
 sidebar_position: 0
 ---
-# Prof. Dr. Hacı İbrahim DELİCE'nin KitaplarıKitap Bölümleri
+# Prof. Dr. Hacı İbrahim DELİCE'nin Kitap Bölümleri

@@ -88,6 +88,11 @@ const config = {
             label: 'Kitaplar',
           },
           {
+            to: '/kitap_bolumleri',
+            position: 'left',
+            label: 'Kitaplar',
+          },
+          {
             to: '/şiirler',
             position: 'left',
             label: 'Şiirler',
