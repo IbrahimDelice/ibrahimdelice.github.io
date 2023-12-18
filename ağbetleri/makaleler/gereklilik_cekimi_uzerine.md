@@ -3,25 +3,10 @@ slug: gereklilik-cekimi-üzerine
 sidebar_position: 1
 ---
 
-# Gereklilik Çekimi Üzerine
+# GEREKLİLİK ÇEKİMİ ÜZERİNE
 
-import Tabs from '@theme/Tabs';
-import TabItem from '@theme/TabItem';
-
-<Tabs>
-  <TabItem value="ÖZET" label="ÖZET" default>  
-
-
-## Özet: 
-Türkçenin fiil işletim sistemi tüm ana hatlarıyla -maalesef- tam olarak ortaya konabilmiş değildir. Bunun sebeplerinden biri ve belki en önemlisi gramer için model olarak alınan Arapça, Farsça, Fransızca ve İngilizce gramerlerinin fiil çekimi konusunda Türkçe ile eşdeğer yapıya sahip olmamasıdır. Bu yüzden, gramer yazma konusunda büyük bir birikime sahip olan ulusların konuyu değerlendirme tecrübelerinden yararlanılamamıştır. Bir başka sebep de bilhassa fiil çekimi için elde edilen sonuçların tüm gramer çalışmalarında bir birlik içinde ele alınmasından dolayı inceleniş biçiminin, doğruluğundan emin olunmasıdır. Oysa, Türkçenin üzerinde en fazla durulması gereken hususlarının başında “fiil” ve özellikle “fiil kipi” ile “fiil çekimi” gelmektedir; çünkü, Türkçe, Türk toplumunun sosyal hayatı itibarıyla da ayrıcalıklı olarak bir fiil dilidir. Dolayısıyla, dilin kullanıcısı olan insanların tecrübeleriyle geliştiğini göz önünde bulundurduğumuzda Türkçenin fiil işletiminin çok daha fazla gelişmiş olması gerekir. Bu çalışmada, gereklilik çekimi ile ilgili olarak kaynaklarda cümle anlamı olarak beliren “gereklilik” ifadesi ile sadece fiil çekimi ile ortaya çıkan gereklilik yapılarının birbiriyle karıştırılmış olmasına dikkat çekilecek, ne olduğu üzerine değil; de, mevcut çalışmalardan hareketle gereklilik çekiminin ne olmadığı üzerinde durulacaktır. Böylece, kaynaklarda doğrudan yanlışa evrilen gereklilik çekiminin yapısal sınırlarının belirlenmesine gayret edilecektir.
-
-:::note Anahtar Kelimeler: Fiil çekimi, gereklilik, gereklilik kipi, gereklilik çekimi.
-
-:::
-
-  </TabItem>
-</Tabs>
-
+Prof. Dr. Hacı İbrahim DELİCE, Afyon Kocatepe Üniversitesi
+ORCID No: 0000-0003-2560-0718 
 
 ## Giriş
 Gereklilik kipi için kaynaklarda “gereklik”, “gerekirlik”, “gerekmelik” ve “gereklilik” (Korkmaz, 2009, s. 693); “vücubî sigası”, siga-i vücubî (Korkmaz, 1992, s. 71) gibi değişik terimler kullanılmıştır.
@@ -52,9 +37,9 @@ Lıra Maırambek Kyzy, “Rus Türkologlarına Göre Güneybatı (Oğuz) Türk L
 
 Duygu Kamacı Gencer, “Toplum Dilbilimsel Kategoriler Olarak Türkçede Gereklilik ve Zorunluluk” isimli çalışmasında tezini ortaya koymak için temel aldığı Şahap Bulak’ın makalesini şu şekilde tablolaştırır (2022, s. 801-802):
 
-||||
-|-|-|-|-|
-| Dönem | İşaretleyiciler |  
+||
+|-|-|
+| Dönem | İşaretleyiciler |
 | Eski Türkçe | kergek |   
 | Eski Uygur Türkçesi | kergek, -mIş kergek, -gUlUk ol-, -gU, -gU kergek, -mAk kergek |  
 | Karahanlı Türkçesi | -gU, -gU kerek, kerek … -sA |  
@@ -101,8 +86,11 @@ Bu yapı da 3. başlıkta izah edildiği üzere isim-fiil ve iyelik eki barınd�
 
 Nesne (/özne): [benim] / bugün okula erken gitmem: Belirtili isim tamlaması, isim, nesne (/özne)
 
--	bugün okula erken gitme[m]: İsim-fiil öbeği= yan cümle, isim
-    YCZT  YCDT   YCZT    YCY
+|||||
+|-|-|-|-|-|
+| bugün | okula | erken | gitme[m]: | İsim-fiil öbeği= yan cümle, isim |  
+|  YCZT | YCZT | YCZT | YCY ||  
+    
 (YCZT: yan cümlenin zarf tümleci; YCDT: yan cümlenin dolaylı tümleci; YCY: yan cümlenin yüklemi)
 
 Yüklem: icap / ediyor: Fiil öbeği, asıl fiil, yüklem (fiil cümlesi)
