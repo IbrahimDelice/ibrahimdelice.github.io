@@ -5,8 +5,7 @@ sidebar_position: 1
 
 # GEREKLİLİK ÇEKİMİ ÜZERİNE
 
-Prof. Dr. Hacı İbrahim DELİCE, Afyon Kocatepe Üniversitesi
-ORCID No: 0000-0003-2560-0718 
+[Konuyu DİSCORD'da tartışmak için tıklayınız!](https://discord.com/channels/1045075418773995600/1186741396435111967)
 
 ## Giriş
 Gereklilik kipi için kaynaklarda “gereklik”, “gerekirlik”, “gerekmelik” ve “gereklilik” (Korkmaz, 2009, s. 693); “vücubî sigası”, siga-i vücubî (Korkmaz, 1992, s. 71) gibi değişik terimler kullanılmıştır.
@@ -217,7 +216,7 @@ Banguoğlu, T. (1974). Türkçenin Grameri. İstanbul: Baha Yayınları.
 
 Bulak, Ş. (2017). Türkçede Gereklilik İfadesinin Kip Hüviyeti Kazanmadan Önceki Gelişim Süreci. EKEV Akademi Dergisi, 0 (72) , 337-355.
 
-Delice H. İ. (2022). Ek-fiil ve Yardımcı Fiil Farklı Kategori Oluşturabilir mi?, "Prof. Dr. Kerime Üstünova Armağanı", Dr. Öğr. Üyesi Hasene Aydın, Öğr. Gör. Dr. İbrahim Karahancı, Editör, İstanbul: Efeakademi Yayınları, ss.455-464.
+Delice H. İ. (2022). Ek-fiil ve Yardımcı Fiil Farklı Kategori Oluşturabilir mi?, "Prof. Dr. Kerime Üstünova Armağanı". Ed.: Aydın, H., Karahancı, İ., İstanbul: Efeakademi Yayınları, ss.455-464.
 
 Demir, N. (2006). Türkçede Gereklilik Kipleri ve İşlevdeşleri. Türk Dili Araştırmaları Yıllığı Belleten, 51 (20031), 11-22 .
 

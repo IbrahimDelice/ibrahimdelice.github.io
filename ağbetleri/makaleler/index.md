@@ -151,7 +151,7 @@ sidebar_position: 0
     </div>
     <div class="içerik">
         <div class="başlık">  
-            <h2><a href="#">Deyimlerin Dilbilgisel Yapıları ve Yapı Çözümlenişleri</a></h2>
+            <h2><a href="#">DEYİMLERİN DİLBİLGİSEL YAPILARI VE YAPI ÇÖZÜMLENİŞLERİ</a></h2>
         </div>
         <div class="yazan">
             <span class="ne">Yazan:</span>
