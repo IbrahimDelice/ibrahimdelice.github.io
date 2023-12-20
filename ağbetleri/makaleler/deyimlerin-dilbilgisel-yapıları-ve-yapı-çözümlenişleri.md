@@ -3,9 +3,9 @@ slug: deyimlerin-dilbilgisel-yapıları-ve-yapı-çözümlenişleri
 sidebar_position: 1
 ---
 
-[177. S.]
-
 # DEYİMLERİN DİLBİLGİSEL YAPILARI VE YAPI ÇÖZÜMLENİŞLERİ
+
+[177. S.]
 
 Deyim (Osm. ta'bir; Alm. Ausdruck, Redensart; Fr. locution, idiom; İng. locution, formula, idiom) dilbilgisi terimleri sözlüklerinde gerçek anlamından ayrı bir anlam bulunması'1, 'kalıplaşmış kelime öbeği olması'2, 'deyimi oluşturan sözcüklerin yerinin değişmemesi'3, bazı sözcüklerin değişmemesine rağmen bazılarının değişip çekimlenebilmesi'4, 'çekici bir anlatım özelliği taşıması'5, 'tümce biçiminde de kurulabilmesi'6 özellikleri öne çıkarılarak incelenmekte ve bu özelliklerle tanımlanmaktadır.
 
