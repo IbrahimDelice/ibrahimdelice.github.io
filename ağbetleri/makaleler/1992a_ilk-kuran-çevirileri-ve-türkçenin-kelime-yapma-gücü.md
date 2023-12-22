@@ -1,5 +1,5 @@
 ---
-slug: ilk-kuran-çevirileri-ve-türkçenin-kelime-yapma-gücü
+slug: 1992a_ilk-kuran-çevirileri-ve-türkçenin-kelime-yapma-gücü
 sidebar_position: 1
 ---
 
