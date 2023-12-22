@@ -6,8 +6,6 @@ tags: [
     ]
 ---
 
-[PDF'yi oku](https://3a9ef3cb-e93c-4633-bd1d-5a58e6ae1db8.filesusr.com/ugd/dc3527_84d218acd64a461cafbbafbb389297d6.pdf)
-
 # İLKOKUL TÜRKÇE DERS KİTAPLARINDAKİ ŞİİR METİNLERİNİN TOPLUMSAL BİLİNÇ AÇISINDAN DEĞERLENDİRİLMESİ
 
 [395. s.]
@@ -1285,3 +1283,5 @@ GÜNGÖR, Aydın; DEMİREL, Tuncay (2014), İlköğretim Türkçe 3 Ders ve Öğ
 Milli Eğitim Bakanlığı (2013), Çocuk Gelişimi ve Eğitimi, Çocuk Edebiyatına Giriş, Ankara, 2013.
 
 VARDAR, Berke, Dilbilimin Temel Kavram ve İlkeleri, Multilingual Yayınlan, İstanbul 2001.
+
+[PDF'yi oku](https://3a9ef3cb-e93c-4633-bd1d-5a58e6ae1db8.filesusr.com/ugd/dc3527_84d218acd64a461cafbbafbb389297d6.pdf)
