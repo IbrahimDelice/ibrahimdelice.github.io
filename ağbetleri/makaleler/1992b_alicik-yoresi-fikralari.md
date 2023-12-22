@@ -1,9 +1,9 @@
 ---
-slug: 1992b_alıcık-yöresi-fıkraları
+slug: 1992b_alicik-yoresi-fikralari
 sidebar_position: 1
 ---
 
-[PDF'den oku!](GitHub/ibrahimdelice.github.io/ağbetleri/makaleler/pdfler/1992b_alicik_yoresi.pdf)
+[PDF'den oku!](pdfler/1992b_alicik.pdf)
 
 # ALICIK YÖRESİ FIKRALARI
 

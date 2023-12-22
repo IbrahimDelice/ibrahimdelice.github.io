@@ -24,13 +24,13 @@ sidebar_position: 0
 </div>
 
 <div class="kitap">
-    <a href="alıcık-yöresi-fıkraları"></a>
+    <a href="1992b_alicik-yoresi-fikralari"></a>
     <div class="resim">
         <img class="bilgilik" width="80px" src="/img/kitaplar/ataş.png" />        
     </div>
     <div class="içerik">
         <div class="başlık">  
-            <h2><a href="#">Alıcık Yöresi Fıkraları</a></h2>
+            <h2><a href="#">ALICIK YÖRESİ FIKRALARI</a></h2>
         </div>
         <div class="yazan">
             <span class="ne">Yazan:</span>
