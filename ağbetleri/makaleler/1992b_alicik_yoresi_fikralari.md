@@ -1,5 +1,5 @@
 ---
-slug: 1992b_alicik-yoresi-fikralari
+slug: 1992b_alicik_yoresi_fikralari
 sidebar_position: 1
 ---
 
