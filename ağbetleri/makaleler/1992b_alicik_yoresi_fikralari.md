@@ -1,11 +1,12 @@
 ---
-slug: 1992b_alicik_yoresi_fikralari
+slug: ALICIK-YÖRESİ-FIKRALARI
 sidebar_position: 1
 ---
 
+# ALICIK YÖRESİ FIKRALARI
+
 [PDF'den oku!](pdfler/1992b_alicik.pdf)
 
-# ALICIK YÖRESİ FIKRALARI
 
 [25. s.]
 
@@ -199,7 +200,7 @@ Alıcıklı, nohut yerken bir av hikayesi anlatıyormuş. Fazlaca yalana başvur
 
 2. Prof. Dr. Saim Sakaoğlu, "Ağınlı Fıkra Tipi İbik Dayı (Hayatı-Fıkra Tipleri İçindeki Yeri-Fıkraları), Türk kültürü Araştırmaları, Halil Fikret AKASYA'ya Armağan, Ankara Üniv. Bassımevi, Ankara, 1989.
 
-# LÜGUTÇE
+# LÜGATÇE
 
 1. avla: Avul önünde duvarla çevrili boş alan.
 2. çaş: Alıcıklıların kendilerinden birini kastederken kullandıkları söz.
