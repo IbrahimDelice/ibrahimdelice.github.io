@@ -5,9 +5,6 @@ sidebar_position: 1
 
 # ALICIK YÖRESİ FIKRALARI
 
-[PDF'den oku!](pdfler/1992b_alicik.pdf)
-
-
 [25. s.]
 
 Alıcık, Yozgat-Akdağmadeni kazasına bağlı, Yozgat-Sivas il sınırında, 150 hâneli, yaklaşık 1200 nüfuslu Yozgat'ın bir serhat köyüdür. Etrafında Kızıllı, Şeyhhalil, Akçakoca, Bayazıt, Taşpınar ve Kayakışla köyleri yer almaktadır. Halkı, Hatipoğulları, Sofular, Cemetler, Keşmenler, Temecikler, Hanifgiller olarak tanınan aşiretlerden oluşmaktadır.
@@ -207,5 +204,7 @@ Alıcıklı, nohut yerken bir av hikayesi anlatıyormuş. Fazlaca yalana başvur
 3. gardın: Patates
 4. sahı: Palto
 5. zevle: Boyunduruğu öküzün boynuna bağlayan, birbirine paralel çubukların adı.
+
+[PDF'den oku!](pdfler/1992b_alicik.pdf)
 
 Delice, H. İ. (1992). Alıcık Yöresi Fıkraları. Sivas: Kızılırmak Dergisi, 11(11), 25-27. 
