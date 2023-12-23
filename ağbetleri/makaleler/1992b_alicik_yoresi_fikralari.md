@@ -205,6 +205,6 @@ Alıcıklı, nohut yerken bir av hikayesi anlatıyormuş. Fazlaca yalana başvur
 4. sahı: Palto
 5. zevle: Boyunduruğu öküzün boynuna bağlayan, birbirine paralel çubukların adı.
 
-[PDF'den oku!](pdfler/1992b-alicik.pdf)
+[PDF'den oku!](1992b-alicik.pdf)
 
 Delice, H. İ. (1992). Alıcık Yöresi Fıkraları. Sivas: Kızılırmak Dergisi, 11(11), 25-27. 
