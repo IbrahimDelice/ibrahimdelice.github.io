@@ -46,7 +46,7 @@ Fıkralarda dikkati çeken bir diğer husus da, halkın bölgesel konuşma dilin
 
 Bu kısa tanıtım yazısının, bölgenin zengin kültür değerlerine dikkat çekmesini umuyor, Alıcık yöresinin ilginç bulduğumuz fıkralarından örnekler sunuyoruz.
 
-# 1- KARA SAPLI BIÇAK
+##### 1- KARA SAPLI BIÇAK
 
 Dağdan kağnısıyla odun getirirken Sivas-Ankara karayolunda, kara saplı Sivas bıçağını kaybeden Alıcıklı, yoldan geçen tüm arabaları durdurup bıçağını sormaktadır. Şoförün biri:
 
@@ -56,7 +56,7 @@ Ertesi gün Alıcıklı, kaymakamın kapısını vurarak kaymakama:
 
 "Dün sabah yolda gaybeddiğim gara saplı bıçah size teslim edilmiş. Onu alacahdım." der.
 
-# 2- PATATES
+#####  2- PATATES
 
 Alıcıklı, sobada közlenmiş patates elinde, ahıra hayvanları kontrole gitmiştir. Ahırda ellinden patatesi düşürür. Patatesi bırakmak niyetinde değildir. Eğilerek alır, yemeğe devam eder. Fakat başka bir tadı vardır. Kendi kendine:
 
@@ -66,7 +66,7 @@ Ama ertesi sabah ahıra girdiğinde acı gerçeği anlamış. Akşam düşürdü
 
 "Tuh ula... Gardın yerine eşeğin b...'nu yemişim." diye hayıflanır durur.
 
-# 3- RADYO
+#####  3- RADYO
 
 İstanbul'dan çalışmaktan dönen Alıcıklı, işler iyi gitmiş olmalı ki bir radyo alır. karısına:
 
@@ -82,7 +82,7 @@ Radyo susmaz. Yalvarma rüşvete dönüşür.
 
 Bu teklifler de kar etmeyince kızar ve yüklükteki tüm yatak, yorgan ne varsa üzerine yığar. Nihayet radyo susmuştur.
 
-# 4- BEŞİK
+#####  4- BEŞİK
 
 Alıcıklı, Üçkaraağaç'taki kızını ziyarete gider. Dünürü bunların saflıklarından çekinerek gece dışarıya çıkmasını önlemek için şakayla:
 
@@ -94,7 +94,7 @@ Sabah çocuğun annesi kocasına:
 
 "Herif, bu çocuh heç bu gadar yapmazdı, hasta mı oldu yohsa" demektedir.
 
-# 5- ÖKÜZÜN KAFASI
+#####  5- ÖKÜZÜN KAFASI
 
 Evin önünde duran turşu küpüne öküz kafayı sokar, fakat çıkaramaz. Alıcıklılar toplanır, çözüm ararlar. İçlerinden birisi:
 
@@ -108,13 +108,13 @@ Kesmişler öküzün kafasını ama kafa yine çıkmıyor. Bu sefer de:
 
 "Küpü gırın." demiş.
 
-# 6- HEP SAHO'YA VURDU
+#####  6- HEP SAHO'YA VURDU
 
 İhtiyar bir Alıcıklı dağda hayvanları otlatmaktadır. İhtiyar olduğu için hayvanlarla pek ilgilenmez. Hayvanlar bir ekin tarlasına girer. Bizimki ağacın altında uyuyakalmıştır. Ekinin sahipleri gelip bir güzelce döverler. Bu, etrafa yayılır. Ara sıra nasıl sopa yediğini sorarlar. O da:
 
 "Beni dödüklerine sanıyolar. Halbuki, hep sahoya vurdular" der.
 
-# 7- NİŞAN TAŞI
+#####  7- NİŞAN TAŞI
 
 Caşlardan biri gece güzel bir rüya görmektedir. Rüyasında bir tarlada altın dolu bir küp görür. Çıkarmak ister fakat çıkmaz. "Ben buraya bir işaret bırahayım da gazma kürek getirip çıharayım." der. Etrafta işaret bırakacak bir nesne bulamaz. Çişiyle işaret koymaya karar verir. Uyku arası ne yaptığını ssoran karısına da:
 
@@ -122,7 +122,7 @@ Caşlardan biri gece güzel bir rüya görmektedir. Rüyasında bir tarlada alt�
 
 [27. s.]
 
-# 7- TAHSİLDDAR
+#####  7- TAHSİLDDAR
 
 Alıcık köylüleri, vergi tahsilindeki bürokratik işlemlerden bıkmışlardır. Her sene tekrar edilen tahsil işine bir çözüm bulurlar. Herkes kendi payına düşeni verir. Toplanan parayı bir torbaya doldurup, tahsildarın yolu üzerinde bir ardıç dalına asarlar. Tahsildarın yüzünü görmeyeceğiz diye de sevinirler.
 
@@ -146,7 +146,7 @@ Köylüler büyük bir şaşkınlıkla torbaya bakarlar, para yerine eşek pisli
 
 "Bu parayı almaya eşek aldı amma, dört ayağını nasıl bir ettide bu torbaya pisledi?" derler.
 
-# 9- BİR DIZDIZ'DAN BİR BİZDEN
+#####  9- BİR DIZDIZ'DAN BİR BİZDEN
 
 Alıcıklılar, tuza verdikleri parayı kurtarmak için tarlaya tuz ekmeye karar verirler. Baharla birlikte tuz tarlası çiçek tarlası olur. Fakat epeyce de sinek uçmaktadır, tuz ağaçlarının üzerinde. Ahıldane'ye sorarlar:
 
@@ -160,19 +160,19 @@ Tarlaya eli silahlı bekçiler dikilir. Tarlada sinek avlamaktadırlar. Bekçile
 
 "Bir dızdız'dan bir bizden" der.
 
-# 10- TAVŞANIN ÖNÜNE BOYUNDURUK
+#####  10- TAVŞANIN ÖNÜNE BOYUNDURUK
 
 Alıcıklı avcının biri, bir av esnasında canlı bir tavşan yakalar. Getirip avla'ya bırakırb Avla'nın kapısına da kaçmasın diye boyunduruk atar. Eve gidip karnını doyurur. Tavşana da yiyecek bir şeyler vereyim diye gelir. Birkaç arkadaşını da çağırır. Onlara da gösterecektir. Fakat tavşanı göremezler. Tavşanın kaçtığını anlayınca da nereden kaçtığı yolunda tahminlerde bulunurlar. Neticede:
 
 "Bu gaçsa gaçsa, zevle'nin delinden gaçmışdır." diye hükme bağlarlar.
 
-# 11- GÖNLÜNÜ ETMEK
+#####  11- GÖNLÜNÜ ETMEK
 
 Alıcıklı çehiz düzmek için hanımıyla beraber Sivas'a gelir. Kadın vitrinde hoşuna giden bir elbise görür. Vitrindeki kadın mankene fiyatını sorar. Kadın mankenin yanında bir de erkek manken vardır. Kadın mankenden cevap gelmeyince Alıcıklı karısına:
 
 "Görmüyon mu garı, gayınbabası orda. Ona gelinlik ediyo." der.
 
-# 12- TENEKELEME OLMAK
+#####  12- TENEKELEME OLMAK
 
 Alıcığa gelen çingeneler, Alıcıklı bir kadının falına bakmaktadır. Kadına:
 
@@ -184,20 +184,20 @@ Kadın paniğe kapılır. Hemen çaresini sorar. Çingeneler:
 
 Kadın razı olmuş. Biri kadının kafasında teneke dövme işini yaparken, diğeri evde arama tarama yaparak yastık altında saklı altınları yürütmüş.
 
-# 13- NOHUT YUTMAK
+#####  13- NOHUT YUTMAK
 
 Alıcıklı, nohut yerken bir av hikayesi anlatıyormuş. Fazlaca yalana başvurmuş. Etrafındakiler:
 
 "Fazlaca nohut yuttun yav. Bu gadar yeter." demişler.
 
 
-# DİPNOTLAR
+### DİPNOTLAR
 
 1. Prof. Dr. Şükrü Elçin, Halk Edebiyatına Giriş, Kültür Bakanlığı Yay. Ank. 1981, "Fıkra" mad. sh. 623.
 
 2. Prof. Dr. Saim Sakaoğlu, "Ağınlı Fıkra Tipi İbik Dayı (Hayatı-Fıkra Tipleri İçindeki Yeri-Fıkraları), Türk kültürü Araştırmaları, Halil Fikret AKASYA'ya Armağan, Ankara Üniv. Bassımevi, Ankara, 1989.
 
-# LÜGATÇE
+### LÜGATÇE
 
 1. avla: Avul önünde duvarla çevrili boş alan.
 2. çaş: Alıcıklıların kendilerinden birini kastederken kullandıkları söz.
