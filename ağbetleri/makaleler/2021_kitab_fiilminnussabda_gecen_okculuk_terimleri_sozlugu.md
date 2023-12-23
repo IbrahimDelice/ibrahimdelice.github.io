@@ -1,5 +1,5 @@
 ---
-slug: kitab_fiilminnussabda_gecen_okculuk_terimleri_sozlugu
+slug: KİTÂB-FÎ-İLMİ'N-NÜŞŞÂBDA-GEÇEN-OKÇULUK-TERİMLERİ
 sidebar_position: 1
 ---
 
@@ -283,5 +283,6 @@ Uçar, İ. ve Akyıldız, S. (2020). Mehmed Emin Vahîd Paşa’nın Minhâc-i R
 
 Vural, H. (2020). Osmanlı türkçesi sözlüklerinde yer alan okçuluk terimleri. Tokat Gaziosmanpaşa Üniversitesi Sosyal Bilimler Araştırmaları Dergisi, Sonbahar Özel Sayısı, Ekim. s. 115-123.
 
+[PDF'den oku!](/pdfler/2021-okculuk.pdf)
 
 ALINTI YAP (APA): DELİCE, H. İ. (2021). Kitab fi İlmi’n-Nüşşab’da Geçen Okçuluk Terimleri. Akademik Dil Ve Edebiyat Dergisi, 5(4), 1841-1860. https://doi.org/10.34083/akaded.1023546
