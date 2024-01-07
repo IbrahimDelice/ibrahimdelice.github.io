@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkagbetleri=self.webpackChunkagbetleri||[]).push([[7804],{9816:e=>{e.exports=JSON.parse('{"label":"T\xfcrk dili","permalink":"/en/blog/tags/turk-dili","allTagsPath":"/en/blog/tags","count":2}')}}]);

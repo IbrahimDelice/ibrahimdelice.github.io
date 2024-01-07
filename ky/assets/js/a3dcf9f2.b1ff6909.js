@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkagbetleri=self.webpackChunkagbetleri||[]).push([[6345],{9529:e=>{e.exports=JSON.parse('{"label":"Delice Dil","permalink":"/ky/blog/tags/delice-dil","allTagsPath":"/ky/blog/tags","count":1}')}}]);

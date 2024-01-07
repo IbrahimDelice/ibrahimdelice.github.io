@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkagbetleri=self.webpackChunkagbetleri||[]).push([[5427],{8960:e=>{e.exports=JSON.parse('{"name":"docusaurus-plugin-content-docs","id":"bildiriler"}')}}]);

@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkagbetleri=self.webpackChunkagbetleri||[]).push([[3373],{8226:l=>{l.exports=JSON.parse('[{"label":"T\xfcrk dili","permalink":"/tk/blog/tags/turk-dili","count":2},{"label":"dilbilim","permalink":"/tk/blog/tags/dilbilim","count":2},{"label":"Delice Dil","permalink":"/tk/blog/tags/delice-dil","count":1}]')}}]);

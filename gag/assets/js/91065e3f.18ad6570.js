@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkagbetleri=self.webpackChunkagbetleri||[]).push([[3107],{1052:l=>{l.exports=JSON.parse('{"label":"dilbilim","permalink":"/gag/blog/tags/dilbilim","allTagsPath":"/gag/blog/tags","count":2}')}}]);
